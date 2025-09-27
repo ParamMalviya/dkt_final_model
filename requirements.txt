@@ -1,0 +1,10 @@
+# Core ML + data handling
+tensorflow==2.14.1
+numpy==1.26.4
+pandas==2.2.2
+
+# Web app
+streamlit==1.37.0
+
+# Optional (nice to have)
+scikit-learn==1.5.1   # for evaluation metrics if needed

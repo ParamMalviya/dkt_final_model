@@ -1,0 +1,651 @@
+question_id,chapter,subject,standard,difficulty,answer_type,correct_answer,option_a,option_b,option_c,option_d,question
+Ph_Mec_11_0,Mechanics,Physics,11,0.22,MCQ,C,Displacement,Velocity,Speed,Acceleration,Which quantity is scalar?
+Ph_Mec_11_1,Mechanics,Physics,11,0.36,MCQ,C,Displacement,Velocity,Speed,Acceleration,Which quantity is scalar?
+Ph_Mec_11_2,Mechanics,Physics,11,0.67,MCQ,C,Displacement,Velocity,Speed,Acceleration,Which quantity is scalar?
+Ph_Mec_11_3,Mechanics,Physics,11,0.22,MCQ,D,g/2,g/√2,g/4,g,"If a block slides down a frictionless incline of angle 15°, its acceleration along the incline is:"
+Ph_Mec_11_4,Mechanics,Physics,11,0.55,MCQ,A,25/2,10,5/2,2/5,Which of the following is an expression for centripetal acceleration for speed 5 on radius 2?
+Ph_Mec_11_5,Mechanics,Physics,11,0.7,MCQ,A,64/2,16,8/2,2/8,Which of the following is an expression for centripetal acceleration for speed 8 on radius 2?
+Ph_Mec_11_6,Mechanics,Physics,11,0.49,MCQ,B,Joule,Newton,Pascal,Watt,The SI unit of force is:
+Ph_Mec_11_7,Mechanics,Physics,11,0.39,MCQ,B,Joule,Newton,Pascal,Watt,The SI unit of force is:
+Ph_Mec_11_8,Work and Energy,Physics,11,0.2,MCQ,A,mv²/r,mrv,v²/r,m²v²/r,A planet of mass m orbits with speed v at radius r. Its centripetal force is:
+Ph_Mec_11_9,Work and Energy,Physics,11,0.31,MCQ,A,mv²/r,mrv,v²/r,m²v²/r,A planet of mass m orbits with speed v at radius r. Its centripetal force is:
+Ph_Opt_11_0,Work and Energy,Physics,11,0.39,MCQ,B,Change in kinetic energy,Change in momentum,Force × distance,Momentum × time,Impulse is equal to:
+Ph_Opt_11_1,Work and Energy,Physics,11,0.26,MCQ,B,2 N,3 N,4 N,5 N,A body of mass 3 kg accelerates at 1 m/s². The net force on it is:
+Ph_Opt_11_2,Work and Energy,Physics,11,0.62,MCQ,A,36/3,18,6/3,3/6,Which of the following is an expression for centripetal acceleration for speed 6 on radius 3?
+Ph_Opt_11_3,Work and Energy,Physics,11,0.23,MCQ,A,mv²/r,mrv,v²/r,m²v²/r,A planet of mass m orbits with speed v at radius r. Its centripetal force is:
+Ph_Opt_11_4,Work and Energy,Physics,11,0.29,MCQ,B,Joule,Newton,Pascal,Watt,The SI unit of force is:
+Ph_Opt_11_5,Work and Energy,Physics,11,0.59,MCQ,C,Displacement,Velocity,Speed,Acceleration,Which quantity is scalar?
+Ph_Opt_11_6,Kinematics,Physics,11,0.64,MCQ,A,mv²/r,mrv,v²/r,m²v²/r,A planet of mass m orbits with speed v at radius r. Its centripetal force is:
+Ph_Opt_11_7,Kinematics,Physics,11,0.45,MCQ,A,mv²/r,mrv,v²/r,m²v²/r,A planet of mass m orbits with speed v at radius r. Its centripetal force is:
+Ph_Opt_11_8,Kinematics,Physics,11,0.66,MCQ,B,0 N,1 N,2 N,3 N,A body of mass 1 kg accelerates at 1 m/s². The net force on it is:
+Ph_Opt_11_9,Kinematics,Physics,11,0.4,MCQ,A,mv²/r,mrv,v²/r,m²v²/r,A planet of mass m orbits with speed v at radius r. Its centripetal force is:
+Ph_Ele_11_0,Kinematics,Physics,11,0.81,MCQ,A,100/2,20,10/2,2/10,Which of the following is an expression for centripetal acceleration for speed 10 on radius 2?
+Ph_Ele_11_1,Kinematics,Physics,11,0.52,MCQ,B,Change in kinetic energy,Change in momentum,Force × distance,Momentum × time,Impulse is equal to:
+Ph_Ele_11_2,Kinematics,Physics,11,0.46,MCQ,A,mv²/r,mrv,v²/r,m²v²/r,A planet of mass m orbits with speed v at radius r. Its centripetal force is:
+Ph_Ele_11_3,Kinematics,Physics,11,0.35,MCQ,B,Change in kinetic energy,Change in momentum,Force × distance,Momentum × time,Impulse is equal to:
+Ph_Ele_11_4,Laws of Motion,Physics,11,0.86,MCQ,B,Joule,Newton,Pascal,Watt,The SI unit of force is:
+Ph_Ele_11_5,Laws of Motion,Physics,11,0.63,MCQ,C,Displacement,Velocity,Speed,Acceleration,Which quantity is scalar?
+Ph_Ele_11_6,Laws of Motion,Physics,11,0.31,MCQ,B,9 N,10 N,7 N,12 N,A body of mass 5 kg accelerates at 2 m/s². The net force on it is:
+Ph_Ele_11_7,Laws of Motion,Physics,11,0.89,MCQ,B,Change in kinetic energy,Change in momentum,Force × distance,Momentum × time,Impulse is equal to:
+Ph_Ele_11_8,Laws of Motion,Physics,11,0.59,MCQ,B,Joule,Newton,Pascal,Watt,The SI unit of force is:
+Ph_Ele_11_9,Laws of Motion,Physics,11,0.79,MCQ,B,Change in kinetic energy,Change in momentum,Force × distance,Momentum × time,Impulse is equal to:
+Ph_Mec_12_0,Laws of Motion,Physics,11,0.24,MCQ,A,mv²/r,mrv,v²/r,m²v²/r,A planet of mass m orbits with speed v at radius r. Its centripetal force is:
+Ph_Mec_12_1,Laws of Motion,Physics,11,0.22,MCQ,A,mv²/r,mrv,v²/r,m²v²/r,A planet of mass m orbits with speed v at radius r. Its centripetal force is:
+Ph_Mec_12_2,Gravitation,Physics,11,0.39,MCQ,B,Change in kinetic energy,Change in momentum,Force × distance,Momentum × time,Impulse is equal to:
+Ph_Mec_12_3,Gravitation,Physics,11,0.35,MCQ,B,14 N,15 N,8 N,17 N,A body of mass 5 kg accelerates at 3 m/s². The net force on it is:
+Ph_Mec_12_4,Gravitation,Physics,11,0.82,MCQ,B,Change in kinetic energy,Change in momentum,Force × distance,Momentum × time,Impulse is equal to:
+Ph_Mec_12_5,Gravitation,Physics,11,0.3,MCQ,B,Change in kinetic energy,Change in momentum,Force × distance,Momentum × time,Impulse is equal to:
+Ph_Mec_12_6,Gravitation,Physics,11,0.72,MCQ,B,5 N,6 N,5 N,8 N,A body of mass 2 kg accelerates at 3 m/s². The net force on it is:
+Ph_Mec_12_7,Gravitation,Physics,11,0.48,MCQ,B,Joule,Newton,Pascal,Watt,The SI unit of force is:
+Ph_Mec_12_8,Gravitation,Physics,11,0.26,MCQ,B,7 N,8 N,6 N,10 N,A body of mass 2 kg accelerates at 4 m/s². The net force on it is:
+Ph_Mec_12_9,Gravitation,Physics,11,0.31,MCQ,A,100/1,10,10/1,1/10,Which of the following is an expression for centripetal acceleration for speed 10 on radius 1?
+Ph_Opt_12_0,Oscillations,Physics,11,0.47,MCQ,B,3 N,4 N,5 N,6 N,A body of mass 4 kg accelerates at 1 m/s². The net force on it is:
+Ph_Opt_12_1,Oscillations,Physics,11,0.88,MCQ,C,g/2,g/√2,g/4,g,"If a block slides down a frictionless incline of angle 45°, its acceleration along the incline is:"
+Ph_Opt_12_2,Oscillations,Physics,11,0.86,MCQ,A,mv²/r,mrv,v²/r,m²v²/r,A planet of mass m orbits with speed v at radius r. Its centripetal force is:
+Ph_Opt_12_3,Oscillations,Physics,11,0.28,MCQ,B,Joule,Newton,Pascal,Watt,The SI unit of force is:
+Ph_Opt_12_4,Oscillations,Physics,11,0.28,MCQ,C,g/2,g/√2,g/4,g,"If a block slides down a frictionless incline of angle 37°, its acceleration along the incline is:"
+Ph_Opt_12_5,Oscillations,Physics,11,0.52,MCQ,C,Displacement,Velocity,Speed,Acceleration,Which quantity is scalar?
+Ph_Opt_12_6,Oscillations,Physics,11,0.38,MCQ,B,Joule,Newton,Pascal,Watt,The SI unit of force is:
+Ph_Opt_12_7,Oscillations,Physics,11,0.56,MCQ,A,g/2,g/√2,g/4,g,"If a block slides down a frictionless incline of angle 30°, its acceleration along the incline is:"
+Ph_Opt_12_8,Waves,Physics,11,0.79,MCQ,A,100/3,30,10/3,3/10,Which of the following is an expression for centripetal acceleration for speed 10 on radius 3?
+Ph_Opt_12_9,Waves,Physics,11,0.31,MCQ,B,g/2,g/√2,g/4,g,"If a block slides down a frictionless incline of angle 60°, its acceleration along the incline is:"
+Ph_Ele_12_0,Waves,Physics,11,0.31,MCQ,A,mv²/r,mrv,v²/r,m²v²/r,A planet of mass m orbits with speed v at radius r. Its centripetal force is:
+Ph_Ele_12_1,Waves,Physics,11,0.85,MCQ,A,mv²/r,mrv,v²/r,m²v²/r,A planet of mass m orbits with speed v at radius r. Its centripetal force is:
+Ph_Ele_12_2,Waves,Physics,11,0.54,MCQ,A,64/3,24,8/3,3/8,Which of the following is an expression for centripetal acceleration for speed 8 on radius 3?
+Ph_Ele_12_3,Waves,Physics,11,0.37,MCQ,A,36/3,18,6/3,3/6,Which of the following is an expression for centripetal acceleration for speed 6 on radius 3?
+Ph_Ele_12_4,Waves,Physics,11,0.26,MCQ,B,4 N,5 N,6 N,7 N,A body of mass 5 kg accelerates at 1 m/s². The net force on it is:
+Ph_Ele_12_5,Waves,Physics,11,0.88,MCQ,C,Displacement,Velocity,Speed,Acceleration,Which quantity is scalar?
+Ph_Ele_12_6,Electrostatics,Physics,12,0.29,MCQ,A,g/2,g/√2,g/4,g,"If a block slides down a frictionless incline of angle 30°, its acceleration along the incline is:"
+Ph_Ele_12_7,Electrostatics,Physics,12,0.32,MCQ,B,Joule,Newton,Pascal,Watt,The SI unit of force is:
+Ph_Ele_12_8,Electrostatics,Physics,12,0.88,MCQ,D,g/2,g/√2,g/4,g,"If a block slides down a frictionless incline of angle 60°, its acceleration along the incline is:"
+Ph_Ele_12_9,Electrostatics,Physics,12,0.7,MCQ,A,g/2,g/√2,g/4,g,"If a block slides down a frictionless incline of angle 30°, its acceleration along the incline is:"
+Ch_Org_11_0,Electrostatics,Physics,12,0.65,MCQ,B,Joule,Newton,Pascal,Watt,The SI unit of force is:
+Ch_Org_11_1,Electrostatics,Physics,12,0.52,MCQ,B,Joule,Newton,Pascal,Watt,The SI unit of force is:
+Ch_Org_11_2,Electrostatics,Physics,12,0.44,MCQ,B,1 N,2 N,3 N,4 N,A body of mass 2 kg accelerates at 1 m/s². The net force on it is:
+Ch_Org_11_3,Electrostatics,Physics,12,0.61,MCQ,B,g/2,g/√2,g/4,g,"If a block slides down a frictionless incline of angle 60°, its acceleration along the incline is:"
+Ch_Org_11_4,Current Electricity,Physics,12,0.36,MCQ,A,16/1,4,4/1,1/4,Which of the following is an expression for centripetal acceleration for speed 4 on radius 1?
+Ch_Org_11_5,Current Electricity,Physics,12,0.25,MCQ,A,100/3,30,10/3,3/10,Which of the following is an expression for centripetal acceleration for speed 10 on radius 3?
+Ch_Org_11_6,Current Electricity,Physics,12,0.35,MCQ,B,11 N,12 N,7 N,14 N,A body of mass 3 kg accelerates at 4 m/s². The net force on it is:
+Ch_Org_11_7,Current Electricity,Physics,12,0.37,MCQ,B,19 N,20 N,9 N,22 N,A body of mass 5 kg accelerates at 4 m/s². The net force on it is:
+Ch_Org_11_8,Current Electricity,Physics,12,0.33,MCQ,B,Change in kinetic energy,Change in momentum,Force × distance,Momentum × time,Impulse is equal to:
+Ch_Org_11_9,Current Electricity,Physics,12,0.45,MCQ,A,81/4,36,9/4,4/9,Which of the following is an expression for centripetal acceleration for speed 9 on radius 4?
+Ch_Ino_11_0,Current Electricity,Physics,12,0.8,MCQ,B,Change in kinetic energy,Change in momentum,Force × distance,Momentum × time,Impulse is equal to:
+Ch_Ino_11_1,Current Electricity,Physics,12,0.24,MCQ,A,81/1,9,9/1,1/9,Which of the following is an expression for centripetal acceleration for speed 9 on radius 1?
+Ch_Ino_11_2,Optics,Physics,12,0.76,MCQ,B,Change in kinetic energy,Change in momentum,Force × distance,Momentum × time,Impulse is equal to:
+Ch_Ino_11_3,Optics,Physics,12,0.33,MCQ,A,25/2,10,5/2,2/5,Which of the following is an expression for centripetal acceleration for speed 5 on radius 2?
+Ch_Ino_11_4,Optics,Physics,12,0.5,MCQ,C,Displacement,Velocity,Speed,Acceleration,Which quantity is scalar?
+Ch_Ino_11_5,Optics,Physics,12,0.37,MCQ,B,Change in kinetic energy,Change in momentum,Force × distance,Momentum × time,Impulse is equal to:
+Ch_Ino_11_6,Optics,Physics,12,0.24,MCQ,A,49/1,7,7/1,1/7,Which of the following is an expression for centripetal acceleration for speed 7 on radius 1?
+Ch_Ino_11_7,Optics,Physics,12,0.85,MCQ,A,g/2,g/√2,g/4,g,"If a block slides down a frictionless incline of angle 15°, its acceleration along the incline is:"
+Ch_Ino_11_8,Optics,Physics,12,0.37,MCQ,A,mv²/r,mrv,v²/r,m²v²/r,A planet of mass m orbits with speed v at radius r. Its centripetal force is:
+Ch_Ino_11_9,Optics,Physics,12,0.54,MCQ,B,Change in kinetic energy,Change in momentum,Force × distance,Momentum × time,Impulse is equal to:
+Ch_Phy_11_0,Modern Physics,Physics,12,0.48,MCQ,A,mv²/r,mrv,v²/r,m²v²/r,A planet of mass m orbits with speed v at radius r. Its centripetal force is:
+Ch_Phy_11_1,Modern Physics,Physics,12,0.2,MCQ,A,25/4,20,5/4,4/5,Which of the following is an expression for centripetal acceleration for speed 5 on radius 4?
+Ch_Phy_11_2,Modern Physics,Physics,12,0.85,MCQ,B,Change in kinetic energy,Change in momentum,Force × distance,Momentum × time,Impulse is equal to:
+Ch_Phy_11_3,Modern Physics,Physics,12,0.52,MCQ,A,mv²/r,mrv,v²/r,m²v²/r,A planet of mass m orbits with speed v at radius r. Its centripetal force is:
+Ch_Phy_11_4,Modern Physics,Physics,12,0.87,MCQ,B,Joule,Newton,Pascal,Watt,The SI unit of force is:
+Ch_Phy_11_5,Modern Physics,Physics,12,0.59,MCQ,A,mv²/r,mrv,v²/r,m²v²/r,A planet of mass m orbits with speed v at radius r. Its centripetal force is:
+Ch_Phy_11_6,Modern Physics,Physics,12,0.31,MCQ,B,Change in kinetic energy,Change in momentum,Force × distance,Momentum × time,Impulse is equal to:
+Ch_Phy_11_7,Modern Physics,Physics,12,0.88,MCQ,C,Displacement,Velocity,Speed,Acceleration,Which quantity is scalar?
+Ch_Phy_11_8,Magnetism,Physics,12,0.72,MCQ,A,g/2,g/√2,g/4,g,"If a block slides down a frictionless incline of angle 60°, its acceleration along the incline is:"
+Ch_Phy_11_9,Magnetism,Physics,12,0.55,MCQ,A,16/4,16,4/4,4/4,Which of the following is an expression for centripetal acceleration for speed 4 on radius 4?
+Ch_Org_12_0,Magnetism,Physics,12,0.57,MCQ,A,mv²/r,mrv,v²/r,m²v²/r,A planet of mass m orbits with speed v at radius r. Its centripetal force is:
+Ch_Org_12_1,Magnetism,Physics,12,0.8,MCQ,A,64/1,8,8/1,1/8,Which of the following is an expression for centripetal acceleration for speed 8 on radius 1?
+Ch_Org_12_2,Magnetism,Physics,12,0.67,MCQ,A,64/1,8,8/1,1/8,Which of the following is an expression for centripetal acceleration for speed 8 on radius 1?
+Ch_Org_12_3,Magnetism,Physics,12,0.86,MCQ,B,3 N,4 N,5 N,6 N,A body of mass 4 kg accelerates at 1 m/s². The net force on it is:
+Ch_Org_12_4,Magnetism,Physics,12,0.61,MCQ,A,g/2,g/√2,g/4,g,"If a block slides down a frictionless incline of angle 30°, its acceleration along the incline is:"
+Ch_Org_12_5,Magnetism,Physics,12,0.49,MCQ,A,64/1,8,8/1,1/8,Which of the following is an expression for centripetal acceleration for speed 8 on radius 1?
+Ch_Org_12_6,Thermodynamics,Physics,12,0.85,MCQ,C,g/2,g/√2,g/4,g,"If a block slides down a frictionless incline of angle 60°, its acceleration along the incline is:"
+Ch_Org_12_7,Thermodynamics,Physics,12,0.39,MCQ,B,5 N,6 N,5 N,8 N,A body of mass 3 kg accelerates at 2 m/s². The net force on it is:
+Ch_Org_12_8,Thermodynamics,Physics,12,0.42,MCQ,B,11 N,12 N,7 N,14 N,A body of mass 3 kg accelerates at 4 m/s². The net force on it is:
+Ch_Org_12_9,Thermodynamics,Physics,12,0.86,MCQ,A,mv²/r,mrv,v²/r,m²v²/r,A planet of mass m orbits with speed v at radius r. Its centripetal force is:
+Ch_Ino_12_0,Thermodynamics,Physics,12,0.25,MCQ,A,49/1,7,7/1,1/7,Which of the following is an expression for centripetal acceleration for speed 7 on radius 1?
+Ch_Ino_12_1,Thermodynamics,Physics,12,0.29,MCQ,B,14 N,15 N,8 N,17 N,A body of mass 5 kg accelerates at 3 m/s². The net force on it is:
+Ch_Ino_12_2,Thermodynamics,Physics,12,0.82,MCQ,C,Displacement,Velocity,Speed,Acceleration,Which quantity is scalar?
+Ch_Ino_12_3,Thermodynamics,Physics,12,0.31,MCQ,B,Change in kinetic energy,Change in momentum,Force × distance,Momentum × time,Impulse is equal to:
+Ch_Ino_12_4,Semiconductors,Physics,12,0.58,MCQ,A,mv²/r,mrv,v²/r,m²v²/r,A planet of mass m orbits with speed v at radius r. Its centripetal force is:
+Ch_Ino_12_5,Semiconductors,Physics,12,0.89,MCQ,B,Joule,Newton,Pascal,Watt,The SI unit of force is:
+Ch_Ino_12_6,Semiconductors,Physics,12,0.66,MCQ,A,mv²/r,mrv,v²/r,m²v²/r,A planet of mass m orbits with speed v at radius r. Its centripetal force is:
+Ch_Ino_12_7,Semiconductors,Physics,12,0.85,MCQ,A,81/3,27,9/3,3/9,Which of the following is an expression for centripetal acceleration for speed 9 on radius 3?
+Ch_Ino_12_8,Semiconductors,Physics,12,0.28,MCQ,A,25/3,15,5/3,3/5,Which of the following is an expression for centripetal acceleration for speed 5 on radius 3?
+Ch_Ino_12_9,Semiconductors,Physics,12,0.39,MCQ,A,81/2,18,9/2,2/9,Which of the following is an expression for centripetal acceleration for speed 9 on radius 2?
+Ch_Phy_12_0,Semiconductors,Physics,12,0.7,MCQ,A,g/2,g/√2,g/4,g,"If a block slides down a frictionless incline of angle 30°, its acceleration along the incline is:"
+Ch_Phy_12_1,Semiconductors,Physics,12,0.38,MCQ,B,11 N,12 N,7 N,14 N,A body of mass 3 kg accelerates at 4 m/s². The net force on it is:
+Ch_Phy_12_2,Atomic Structure,Chemistry,11,0.26,MCQ,C,1s²,1s²2s²2p⁴,1s²2s²2p⁶,1s²2s²2p³,The correct electronic configuration of O²⁻ is:
+Ch_Phy_12_3,Atomic Structure,Chemistry,11,0.23,MCQ,A,Raoult's law,Henry's law,Boyle's law,Charles's law,Which law relates vapor pressure and composition of an ideal solution?
+Ch_Phy_12_4,Atomic Structure,Chemistry,11,0.65,MCQ,C,Mass,Volume,Density,Length,Which of the following is an intensive property?
+Ch_Phy_12_5,Atomic Structure,Chemistry,11,0.72,MCQ,C,Mass,Volume,Density,Length,Which of the following is an intensive property?
+Ch_Phy_12_6,Atomic Structure,Chemistry,11,0.28,MCQ,A,CH2O,C2H4O2,CHO,C2H6O,"The empirical formula of a compound with C:50%, H:6.7%, O:43.3% is:"
+Ch_Phy_12_7,Atomic Structure,Chemistry,11,0.58,MCQ,C,Mass,Volume,Density,Length,Which of the following is an intensive property?
+Ch_Phy_12_8,Atomic Structure,Chemistry,11,0.61,MCQ,A,1s²2s²2p⁶,1s²2s²2p⁴,1s²2s²2p³,1s²2s²2p⁵,The correct electronic configuration of Na+ is:
+Ch_Phy_12_9,Atomic Structure,Chemistry,11,0.29,MCQ,A,Raoult's law,Henry's law,Boyle's law,Charles's law,Which law relates vapor pressure and composition of an ideal solution?
+Ma_Alg_11_0,Mole Concept,Chemistry,11,0.83,MCQ,A,Raoult's law,Henry's law,Boyle's law,Charles's law,Which law relates vapor pressure and composition of an ideal solution?
+Ma_Alg_11_1,Mole Concept,Chemistry,11,0.83,MCQ,C,1s²,1s²2s²2p⁴,1s²2s²2p⁶,1s²2s²2p³,The correct electronic configuration of O²⁻ is:
+Ma_Alg_11_2,Mole Concept,Chemistry,11,0.37,MCQ,C,Electron,Neutron,Proton,Positron,Which particle determines the identity of an element?
+Ma_Alg_11_3,Mole Concept,Chemistry,11,0.45,MCQ,A,6.02 × 10²³,3.00 × 10⁸,1.60 × 10⁻¹⁹,9.81,Avogadro's number is approximately:
+Ma_Alg_11_4,Mole Concept,Chemistry,11,0.85,MCQ,A,CH2O,C2H4O2,CHO,C2H6O,"The empirical formula of a compound with C:50%, H:13.3%, O:36.7% is:"
+Ma_Alg_11_5,Mole Concept,Chemistry,11,0.88,MCQ,C,Mass,Volume,Density,Length,Which of the following is an intensive property?
+Ma_Alg_11_6,Mole Concept,Chemistry,11,0.82,MCQ,C,1s²,1s²2s²2p⁴,1s²2s²2p⁶,1s²2s²2p³,The correct electronic configuration of O²⁻ is:
+Ma_Alg_11_7,Mole Concept,Chemistry,11,0.33,MCQ,A,6.02 × 10²³,3.00 × 10⁸,1.60 × 10⁻¹⁹,9.81,Avogadro's number is approximately:
+Ma_Alg_11_8,Chemical Bonding,Chemistry,11,0.76,MCQ,A,Raoult's law,Henry's law,Boyle's law,Charles's law,Which law relates vapor pressure and composition of an ideal solution?
+Ma_Alg_11_9,Chemical Bonding,Chemistry,11,0.77,MCQ,B,1s²2s²2p⁴,1s²2s²2p⁶,1s²2s²2p³,1s²2s²2p²,The correct electronic configuration of Cl- is:
+Ma_Cal_11_0,Chemical Bonding,Chemistry,11,0.75,MCQ,C,Mass,Volume,Density,Length,Which of the following is an intensive property?
+Ma_Cal_11_1,Chemical Bonding,Chemistry,11,0.47,MCQ,A,6.02 × 10²³,3.00 × 10⁸,1.60 × 10⁻¹⁹,9.81,Avogadro's number is approximately:
+Ma_Cal_11_2,Chemical Bonding,Chemistry,11,0.8,MCQ,A,6.02 × 10²³,3.00 × 10⁸,1.60 × 10⁻¹⁹,9.81,Avogadro's number is approximately:
+Ma_Cal_11_3,Chemical Bonding,Chemistry,11,0.77,MCQ,C,Mass,Volume,Density,Length,Which of the following is an intensive property?
+Ma_Cal_11_4,Chemical Bonding,Chemistry,11,0.41,MCQ,A,Raoult's law,Henry's law,Boyle's law,Charles's law,Which law relates vapor pressure and composition of an ideal solution?
+Ma_Cal_11_5,Chemical Bonding,Chemistry,11,0.36,MCQ,C,1s²,1s²2s²2p⁴,1s²2s²2p⁶,1s²2s²2p³,The correct electronic configuration of O²⁻ is:
+Ma_Cal_11_6,Equilibrium,Chemistry,11,0.48,MCQ,C,Mass,Volume,Density,Length,Which of the following is an intensive property?
+Ma_Cal_11_7,Equilibrium,Chemistry,11,0.88,MCQ,C,Mass,Volume,Density,Length,Which of the following is an intensive property?
+Ma_Cal_11_8,Equilibrium,Chemistry,11,0.65,MCQ,A,Raoult's law,Henry's law,Boyle's law,Charles's law,Which law relates vapor pressure and composition of an ideal solution?
+Ma_Cal_11_9,Equilibrium,Chemistry,11,0.89,MCQ,C,Electron,Neutron,Proton,Positron,Which particle determines the identity of an element?
+Ma_Tri_11_0,Equilibrium,Chemistry,11,0.28,MCQ,A,CH2O,C2H4O2,CHO,C2H6O,"The empirical formula of a compound with C:30%, H:6.7%, O:63.3% is:"
+Ma_Tri_11_1,Equilibrium,Chemistry,11,0.61,MCQ,C,Mass,Volume,Density,Length,Which of the following is an intensive property?
+Ma_Tri_11_2,Equilibrium,Chemistry,11,0.28,MCQ,C,Mass,Volume,Density,Length,Which of the following is an intensive property?
+Ma_Tri_11_3,Equilibrium,Chemistry,11,0.71,MCQ,A,Raoult's law,Henry's law,Boyle's law,Charles's law,Which law relates vapor pressure and composition of an ideal solution?
+Ma_Tri_11_4,Redox Reactions,Chemistry,11,0.62,MCQ,A,Raoult's law,Henry's law,Boyle's law,Charles's law,Which law relates vapor pressure and composition of an ideal solution?
+Ma_Tri_11_5,Redox Reactions,Chemistry,11,0.83,MCQ,A,CH2O,C2H4O2,CHO,C2H6O,"The empirical formula of a compound with C:40%, H:6.6%, O:53.4% is:"
+Ma_Tri_11_6,Redox Reactions,Chemistry,11,0.23,MCQ,A,Raoult's law,Henry's law,Boyle's law,Charles's law,Which law relates vapor pressure and composition of an ideal solution?
+Ma_Tri_11_7,Redox Reactions,Chemistry,11,0.56,MCQ,C,Mass,Volume,Density,Length,Which of the following is an intensive property?
+Ma_Tri_11_8,Redox Reactions,Chemistry,11,0.68,MCQ,B,1s²2s²2p⁴,1s²2s²2p⁶,1s²2s²2p³,1s²2s²2p²,The correct electronic configuration of Cl- is:
+Ma_Tri_11_9,Redox Reactions,Chemistry,11,0.67,MCQ,C,Electron,Neutron,Proton,Positron,Which particle determines the identity of an element?
+Ma_Alg_12_0,Redox Reactions,Chemistry,11,0.25,MCQ,A,Raoult's law,Henry's law,Boyle's law,Charles's law,Which law relates vapor pressure and composition of an ideal solution?
+Ma_Alg_12_1,Redox Reactions,Chemistry,11,0.64,MCQ,A,Raoult's law,Henry's law,Boyle's law,Charles's law,Which law relates vapor pressure and composition of an ideal solution?
+Ma_Alg_12_2,Periodic Properties,Chemistry,11,0.7,MCQ,C,Mass,Volume,Density,Length,Which of the following is an intensive property?
+Ma_Alg_12_3,Periodic Properties,Chemistry,11,0.42,MCQ,C,Electron,Neutron,Proton,Positron,Which particle determines the identity of an element?
+Ma_Alg_12_4,Periodic Properties,Chemistry,11,0.48,MCQ,A,Raoult's law,Henry's law,Boyle's law,Charles's law,Which law relates vapor pressure and composition of an ideal solution?
+Ma_Alg_12_5,Periodic Properties,Chemistry,11,0.29,MCQ,C,Electron,Neutron,Proton,Positron,Which particle determines the identity of an element?
+Ma_Alg_12_6,Periodic Properties,Chemistry,11,0.86,MCQ,C,Electron,Neutron,Proton,Positron,Which particle determines the identity of an element?
+Ma_Alg_12_7,Periodic Properties,Chemistry,11,0.83,MCQ,C,Electron,Neutron,Proton,Positron,Which particle determines the identity of an element?
+Ma_Alg_12_8,Periodic Properties,Chemistry,11,0.58,MCQ,A,CH2O,C2H4O2,CHO,C2H6O,"The empirical formula of a compound with C:30%, H:6.6%, O:63.4% is:"
+Ma_Alg_12_9,Periodic Properties,Chemistry,11,0.41,MCQ,A,6.02 × 10²³,3.00 × 10⁸,1.60 × 10⁻¹⁹,9.81,Avogadro's number is approximately:
+Ma_Cal_12_0,States of Matter,Chemistry,11,0.75,MCQ,A,Raoult's law,Henry's law,Boyle's law,Charles's law,Which law relates vapor pressure and composition of an ideal solution?
+Ma_Cal_12_1,States of Matter,Chemistry,11,0.51,MCQ,A,CH2O,C2H4O2,CHO,C2H6O,"The empirical formula of a compound with C:30%, H:6.6%, O:63.4% is:"
+Ma_Cal_12_2,States of Matter,Chemistry,11,0.56,MCQ,C,Mass,Volume,Density,Length,Which of the following is an intensive property?
+Ma_Cal_12_3,States of Matter,Chemistry,11,0.32,MCQ,B,1s²2s²2p⁴,1s²2s²2p⁶,1s²2s²2p³,1s²2s²2p²,The correct electronic configuration of Cl- is:
+Ma_Cal_12_4,States of Matter,Chemistry,11,0.4,MCQ,A,6.02 × 10²³,3.00 × 10⁸,1.60 × 10⁻¹⁹,9.81,Avogadro's number is approximately:
+Ma_Cal_12_5,States of Matter,Chemistry,11,0.63,MCQ,C,Electron,Neutron,Proton,Positron,Which particle determines the identity of an element?
+Ma_Cal_12_6,States of Matter,Chemistry,11,0.77,MCQ,A,6.02 × 10²³,3.00 × 10⁸,1.60 × 10⁻¹⁹,9.81,Avogadro's number is approximately:
+Ma_Cal_12_7,States of Matter,Chemistry,11,0.67,MCQ,C,1s²,1s²2s²2p⁴,1s²2s²2p⁶,1s²2s²2p³,The correct electronic configuration of O²⁻ is:
+Ma_Cal_12_8,Organic Chemistry,Chemistry,12,0.3,MCQ,C,Mass,Volume,Density,Length,Which of the following is an intensive property?
+Ma_Cal_12_9,Organic Chemistry,Chemistry,12,0.37,MCQ,A,6.02 × 10²³,3.00 × 10⁸,1.60 × 10⁻¹⁹,9.81,Avogadro's number is approximately:
+Ma_Tri_12_0,Organic Chemistry,Chemistry,12,0.79,MCQ,C,Electron,Neutron,Proton,Positron,Which particle determines the identity of an element?
+Ma_Tri_12_1,Organic Chemistry,Chemistry,12,0.52,MCQ,A,6.02 × 10²³,3.00 × 10⁸,1.60 × 10⁻¹⁹,9.81,Avogadro's number is approximately:
+Ma_Tri_12_2,Organic Chemistry,Chemistry,12,0.34,MCQ,C,Electron,Neutron,Proton,Positron,Which particle determines the identity of an element?
+Ma_Tri_12_3,Organic Chemistry,Chemistry,12,0.55,MCQ,A,Raoult's law,Henry's law,Boyle's law,Charles's law,Which law relates vapor pressure and composition of an ideal solution?
+Ma_Tri_12_4,Organic Chemistry,Chemistry,12,0.66,MCQ,C,Mass,Volume,Density,Length,Which of the following is an intensive property?
+Ma_Tri_12_5,Organic Chemistry,Chemistry,12,0.82,MCQ,A,6.02 × 10²³,3.00 × 10⁸,1.60 × 10⁻¹⁹,9.81,Avogadro's number is approximately:
+Ma_Tri_12_6,Electrochemistry,Chemistry,12,0.74,MCQ,C,1s²,1s²2s²2p⁴,1s²2s²2p⁶,1s²2s²2p³,The correct electronic configuration of O²⁻ is:
+Ma_Tri_12_7,Electrochemistry,Chemistry,12,0.76,MCQ,C,Mass,Volume,Density,Length,Which of the following is an intensive property?
+Ma_Tri_12_8,Electrochemistry,Chemistry,12,0.53,MCQ,C,Electron,Neutron,Proton,Positron,Which particle determines the identity of an element?
+Ma_Tri_12_9,Electrochemistry,Chemistry,12,0.52,MCQ,A,CH2O,C2H4O2,CHO,C2H6O,"The empirical formula of a compound with C:20%, H:6.7%, O:73.3% is:"
+Ch_Electr_12_180,Electrochemistry,Chemistry,12,0.67,MCQ,A,1s²2s²2p⁶,1s²2s²2p⁴,1s²2s²2p³,1s²2s²2p⁵,The correct electronic configuration of Na+ is:
+Ch_Electr_12_181,Electrochemistry,Chemistry,12,0.63,MCQ,A,CH2O,C2H4O2,CHO,C2H6O,"The empirical formula of a compound with C:30%, H:6.6%, O:63.4% is:"
+Ch_Electr_12_182,Electrochemistry,Chemistry,12,0.5,MCQ,C,Electron,Neutron,Proton,Positron,Which particle determines the identity of an element?
+Ch_Electr_12_183,Electrochemistry,Chemistry,12,0.72,MCQ,A,CH2O,C2H4O2,CHO,C2H6O,"The empirical formula of a compound with C:50%, H:13.3%, O:36.7% is:"
+Ch_SolidS_12_184,Solid State,Chemistry,12,0.38,MCQ,A,Raoult's law,Henry's law,Boyle's law,Charles's law,Which law relates vapor pressure and composition of an ideal solution?
+Ch_SolidS_12_185,Solid State,Chemistry,12,0.39,MCQ,C,Electron,Neutron,Proton,Positron,Which particle determines the identity of an element?
+Ch_SolidS_12_186,Solid State,Chemistry,12,0.54,MCQ,B,1s²2s²2p⁴,1s²2s²2p⁶,1s²2s²2p³,1s²2s²2p²,The correct electronic configuration of Cl- is:
+Ch_SolidS_12_187,Solid State,Chemistry,12,0.51,MCQ,A,Raoult's law,Henry's law,Boyle's law,Charles's law,Which law relates vapor pressure and composition of an ideal solution?
+Ch_SolidS_12_188,Solid State,Chemistry,12,0.36,MCQ,A,Raoult's law,Henry's law,Boyle's law,Charles's law,Which law relates vapor pressure and composition of an ideal solution?
+Ch_SolidS_12_189,Solid State,Chemistry,12,0.83,MCQ,A,Raoult's law,Henry's law,Boyle's law,Charles's law,Which law relates vapor pressure and composition of an ideal solution?
+Ch_SolidS_12_190,Solid State,Chemistry,12,0.3,MCQ,A,6.02 × 10²³,3.00 × 10⁸,1.60 × 10⁻¹⁹,9.81,Avogadro's number is approximately:
+Ch_SolidS_12_191,Solid State,Chemistry,12,0.69,MCQ,A,Raoult's law,Henry's law,Boyle's law,Charles's law,Which law relates vapor pressure and composition of an ideal solution?
+Ch_Chemic_12_192,Chemical Kinetics,Chemistry,12,0.24,MCQ,C,Mass,Volume,Density,Length,Which of the following is an intensive property?
+Ch_Chemic_12_193,Chemical Kinetics,Chemistry,12,0.58,MCQ,A,Raoult's law,Henry's law,Boyle's law,Charles's law,Which law relates vapor pressure and composition of an ideal solution?
+Ch_Chemic_12_194,Chemical Kinetics,Chemistry,12,0.34,MCQ,C,Mass,Volume,Density,Length,Which of the following is an intensive property?
+Ch_Chemic_12_195,Chemical Kinetics,Chemistry,12,0.83,MCQ,A,Raoult's law,Henry's law,Boyle's law,Charles's law,Which law relates vapor pressure and composition of an ideal solution?
+Ch_Chemic_12_196,Chemical Kinetics,Chemistry,12,0.53,MCQ,A,CH2O,C2H4O2,CHO,C2H6O,"The empirical formula of a compound with C:40%, H:6.6%, O:53.4% is:"
+Ch_Chemic_12_197,Chemical Kinetics,Chemistry,12,0.73,MCQ,A,Raoult's law,Henry's law,Boyle's law,Charles's law,Which law relates vapor pressure and composition of an ideal solution?
+Ch_Chemic_12_198,Chemical Kinetics,Chemistry,12,0.58,MCQ,A,1s²2s²2p⁶,1s²2s²2p⁴,1s²2s²2p³,1s²2s²2p⁵,The correct electronic configuration of Na+ is:
+Ch_Chemic_12_199,Chemical Kinetics,Chemistry,12,0.76,MCQ,C,Electron,Neutron,Proton,Positron,Which particle determines the identity of an element?
+Ch_Coordi_12_200,Coordination Compounds,Chemistry,12,0.35,MCQ,A,Raoult's law,Henry's law,Boyle's law,Charles's law,Which law relates vapor pressure and composition of an ideal solution?
+Ch_Coordi_12_201,Coordination Compounds,Chemistry,12,0.22,MCQ,A,Raoult's law,Henry's law,Boyle's law,Charles's law,Which law relates vapor pressure and composition of an ideal solution?
+Ch_Coordi_12_202,Coordination Compounds,Chemistry,12,0.68,MCQ,C,Electron,Neutron,Proton,Positron,Which particle determines the identity of an element?
+Ch_Coordi_12_203,Coordination Compounds,Chemistry,12,0.32,MCQ,C,Electron,Neutron,Proton,Positron,Which particle determines the identity of an element?
+Ch_Coordi_12_204,Coordination Compounds,Chemistry,12,0.89,MCQ,C,Mass,Volume,Density,Length,Which of the following is an intensive property?
+Ch_Coordi_12_205,Coordination Compounds,Chemistry,12,0.61,MCQ,A,CH2O,C2H4O2,CHO,C2H6O,"The empirical formula of a compound with C:40%, H:6.6%, O:53.4% is:"
+Ch_Coordi_12_206,Coordination Compounds,Chemistry,12,0.26,MCQ,C,Mass,Volume,Density,Length,Which of the following is an intensive property?
+Ch_Coordi_12_207,Coordination Compounds,Chemistry,12,0.81,MCQ,C,Mass,Volume,Density,Length,Which of the following is an intensive property?
+Ch_Biomol_12_208,Biomolecules,Chemistry,12,0.38,MCQ,C,Mass,Volume,Density,Length,Which of the following is an intensive property?
+Ch_Biomol_12_209,Biomolecules,Chemistry,12,0.52,MCQ,C,Mass,Volume,Density,Length,Which of the following is an intensive property?
+Ch_Biomol_12_210,Biomolecules,Chemistry,12,0.39,MCQ,A,Raoult's law,Henry's law,Boyle's law,Charles's law,Which law relates vapor pressure and composition of an ideal solution?
+Ch_Biomol_12_211,Biomolecules,Chemistry,12,0.38,MCQ,A,1s²2s²2p⁶,1s²2s²2p⁴,1s²2s²2p³,1s²2s²2p⁵,The correct electronic configuration of Na+ is:
+Ch_Biomol_12_212,Biomolecules,Chemistry,12,0.53,MCQ,A,6.02 × 10²³,3.00 × 10⁸,1.60 × 10⁻¹⁹,9.81,Avogadro's number is approximately:
+Ch_Biomol_12_213,Biomolecules,Chemistry,12,0.24,MCQ,C,Electron,Neutron,Proton,Positron,Which particle determines the identity of an element?
+Ch_Biomol_12_214,Biomolecules,Chemistry,12,0.66,MCQ,C,Mass,Volume,Density,Length,Which of the following is an intensive property?
+Ch_Biomol_12_215,Biomolecules,Chemistry,12,0.23,MCQ,B,1s²2s²2p⁴,1s²2s²2p⁶,1s²2s²2p³,1s²2s²2p²,The correct electronic configuration of Cl- is:
+Ch_Surfac_12_216,Surface Chemistry,Chemistry,12,0.86,MCQ,A,6.02 × 10²³,3.00 × 10⁸,1.60 × 10⁻¹⁹,9.81,Avogadro's number is approximately:
+Ch_Surfac_12_217,Surface Chemistry,Chemistry,12,0.63,MCQ,C,Mass,Volume,Density,Length,Which of the following is an intensive property?
+Ch_Surfac_12_218,Surface Chemistry,Chemistry,12,0.53,MCQ,C,Mass,Volume,Density,Length,Which of the following is an intensive property?
+Ch_Surfac_12_219,Surface Chemistry,Chemistry,12,0.59,MCQ,A,6.02 × 10²³,3.00 × 10⁸,1.60 × 10⁻¹⁹,9.81,Avogadro's number is approximately:
+Ch_Surfac_12_220,Surface Chemistry,Chemistry,12,0.69,MCQ,A,Raoult's law,Henry's law,Boyle's law,Charles's law,Which law relates vapor pressure and composition of an ideal solution?
+Ch_Surfac_12_221,Surface Chemistry,Chemistry,12,0.32,MCQ,A,1s²2s²2p⁶,1s²2s²2p⁴,1s²2s²2p³,1s²2s²2p⁵,The correct electronic configuration of Na+ is:
+Ch_Surfac_12_222,Surface Chemistry,Chemistry,12,0.88,MCQ,A,CH2O,C2H4O2,CHO,C2H6O,"The empirical formula of a compound with C:40%, H:13.3%, O:46.7% is:"
+Ch_Surfac_12_223,Surface Chemistry,Chemistry,12,0.61,MCQ,A,6.02 × 10²³,3.00 × 10⁸,1.60 × 10⁻¹⁹,9.81,Avogadro's number is approximately:
+Ma_Sets_11_224,Sets,Math,11,0.6,MCQ,A,1/2,1/3,1,2,∫₀¹ x dx equals:
+Ma_Sets_11_225,Sets,Math,11,0.48,MCQ,B,n(n−1)/2,n(n+1)/2,n²,(n+1)²/2,The sum of the first n natural numbers is:
+Ma_Sets_11_226,Sets,Math,11,0.25,MCQ,B,Real,Imaginary,Zero,None,The roots of x² + 2 = 0 are:
+Ma_Sets_11_227,Sets,Math,11,0.27,MCQ,B,Real,Imaginary,Zero,None,The roots of x² + 2 = 0 are:
+Ma_Sets_11_228,Sets,Math,11,0.8,MCQ,A,1/2,1/3,1,2,∫₀¹ x dx equals:
+Ma_Sets_11_229,Sets,Math,11,0.76,MCQ,B,Real,Imaginary,Zero,None,The roots of x² + 1 = 0 are:
+Ma_Sets_11_230,Sets,Math,11,0.44,MCQ,B,Real,Imaginary,Zero,None,The roots of x² + 1 = 0 are:
+Ma_Sets_11_231,Sets,Math,11,0.66,MCQ,B,n(n−1)/2,n(n+1)/2,n²,(n+1)²/2,The sum of the first n natural numbers is:
+Ma_Relati_11_232,Relations and Functions,Math,11,0.78,MCQ,B,-3,-2,-1,0,"If f(x) = x² − 4x + 1, then f(3) equals:"
+Ma_Relati_11_233,Relations and Functions,Math,11,0.7,MCQ,B,-4,-3,-2,-1,"If f(x) = x² − 5x + 3, then f(3) equals:"
+Ma_Relati_11_234,Relations and Functions,Math,11,0.32,MCQ,B,n(n−1)/2,n(n+1)/2,n²,(n+1)²/2,The sum of the first n natural numbers is:
+Ma_Relati_11_235,Relations and Functions,Math,11,0.63,MCQ,B,Real,Imaginary,Zero,None,The roots of x² + 3 = 0 are:
+Ma_Relati_11_236,Relations and Functions,Math,11,0.53,MCQ,B,Real,Imaginary,Zero,None,The roots of x² + 4 = 0 are:
+Ma_Relati_11_237,Relations and Functions,Math,11,0.43,MCQ,B,Real,Imaginary,Zero,None,The roots of x² + 3 = 0 are:
+Ma_Relati_11_238,Relations and Functions,Math,11,0.78,MCQ,A,cos x,−cos x,sin x,−sin x,The derivative of sin x is:
+Ma_Relati_11_239,Relations and Functions,Math,11,0.73,MCQ,B,1,2,3,4,"If f(x) = x² − 4x + 5, then f(1) equals:"
+Ma_Trigon_11_240,Trigonometry,Math,11,0.44,MCQ,B,Real,Imaginary,Zero,None,The roots of x² + 4 = 0 are:
+Ma_Trigon_11_241,Trigonometry,Math,11,0.8,MCQ,B,n(n−1)/2,n(n+1)/2,n²,(n+1)²/2,The sum of the first n natural numbers is:
+Ma_Trigon_11_242,Trigonometry,Math,11,0.54,MCQ,A,cos x,−cos x,sin x,−sin x,The derivative of sin x is:
+Ma_Trigon_11_243,Trigonometry,Math,11,0.76,MCQ,A,1/2,1/3,1,2,∫₀¹ x dx equals:
+Ma_Trigon_11_244,Trigonometry,Math,11,0.4,MCQ,A,1/2,1/3,1,2,∫₀¹ x dx equals:
+Ma_Trigon_11_245,Trigonometry,Math,11,0.59,MCQ,B,Real,Imaginary,Zero,None,The roots of x² + 3 = 0 are:
+Ma_Trigon_11_246,Trigonometry,Math,11,0.26,MCQ,B,Real,Imaginary,Zero,None,The roots of x² + 2 = 0 are:
+Ma_Trigon_11_247,Trigonometry,Math,11,0.54,MCQ,B,Real,Imaginary,Zero,None,The roots of x² + 4 = 0 are:
+Ma_Straig_11_248,Straight Lines,Math,11,0.68,MCQ,A,cos x,−cos x,sin x,−sin x,The derivative of sin x is:
+Ma_Straig_11_249,Straight Lines,Math,11,0.51,MCQ,B,Real,Imaginary,Zero,None,The roots of x² + 4 = 0 are:
+Ma_Straig_11_250,Straight Lines,Math,11,0.48,MCQ,B,1,2,3,4,"If f(x) = x² − 2x + 3, then f(1) equals:"
+Ma_Straig_11_251,Straight Lines,Math,11,0.41,MCQ,A,cos x,−cos x,sin x,−sin x,The derivative of sin x is:
+Ma_Straig_11_252,Straight Lines,Math,11,0.53,MCQ,B,Real,Imaginary,Zero,None,The roots of x² + 3 = 0 are:
+Ma_Straig_11_253,Straight Lines,Math,11,0.5,MCQ,B,Real,Imaginary,Zero,None,The roots of x² + 3 = 0 are:
+Ma_Straig_11_254,Straight Lines,Math,11,0.45,MCQ,B,Real,Imaginary,Zero,None,The roots of x² + 3 = 0 are:
+Ma_Straig_11_255,Straight Lines,Math,11,0.39,MCQ,B,n(n−1)/2,n(n+1)/2,n²,(n+1)²/2,The sum of the first n natural numbers is:
+Ma_ConicS_11_256,Conic Sections,Math,11,0.36,MCQ,A,1/2,1/3,1,2,∫₀¹ x dx equals:
+Ma_ConicS_11_257,Conic Sections,Math,11,0.42,MCQ,B,Real,Imaginary,Zero,None,The roots of x² + 2 = 0 are:
+Ma_ConicS_11_258,Conic Sections,Math,11,0.33,MCQ,B,Real,Imaginary,Zero,None,The roots of x² + 2 = 0 are:
+Ma_ConicS_11_259,Conic Sections,Math,11,0.39,MCQ,B,Real,Imaginary,Zero,None,The roots of x² + 4 = 0 are:
+Ma_ConicS_11_260,Conic Sections,Math,11,0.89,MCQ,B,Real,Imaginary,Zero,None,The roots of x² + 3 = 0 are:
+Ma_ConicS_11_261,Conic Sections,Math,11,0.41,MCQ,A,cos x,−cos x,sin x,−sin x,The derivative of sin x is:
+Ma_ConicS_11_262,Conic Sections,Math,11,0.33,MCQ,A,1/2,1/3,1,2,∫₀¹ x dx equals:
+Ma_ConicS_11_263,Conic Sections,Math,11,0.88,MCQ,B,2,3,4,5,"If f(x) = x² − 3x + 3, then f(0) equals:"
+Ma_Probab_11_264,Probability,Math,11,0.69,MCQ,B,Real,Imaginary,Zero,None,The roots of x² + 3 = 0 are:
+Ma_Probab_11_265,Probability,Math,11,0.65,MCQ,A,cos x,−cos x,sin x,−sin x,The derivative of sin x is:
+Ma_Probab_11_266,Probability,Math,11,0.27,MCQ,B,n(n−1)/2,n(n+1)/2,n²,(n+1)²/2,The sum of the first n natural numbers is:
+Ma_Probab_11_267,Probability,Math,11,0.51,MCQ,B,1,2,3,4,"If f(x) = x² − 4x + 5, then f(3) equals:"
+Ma_Probab_11_268,Probability,Math,11,0.88,MCQ,A,cos x,−cos x,sin x,−sin x,The derivative of sin x is:
+Ma_Probab_11_269,Probability,Math,11,0.86,MCQ,A,1/2,1/3,1,2,∫₀¹ x dx equals:
+Ma_Probab_11_270,Probability,Math,11,0.28,MCQ,B,n(n−1)/2,n(n+1)/2,n²,(n+1)²/2,The sum of the first n natural numbers is:
+Ma_Probab_11_271,Probability,Math,11,0.6,MCQ,B,4,5,6,7,"If f(x) = x² − 5x + 5, then f(0) equals:"
+Ma_Permut_11_272,Permutations,Math,11,0.31,MCQ,B,Real,Imaginary,Zero,None,The roots of x² + 1 = 0 are:
+Ma_Permut_11_273,Permutations,Math,11,0.26,MCQ,B,Real,Imaginary,Zero,None,The roots of x² + 3 = 0 are:
+Ma_Permut_11_274,Permutations,Math,11,0.28,MCQ,A,cos x,−cos x,sin x,−sin x,The derivative of sin x is:
+Ma_Permut_11_275,Permutations,Math,11,0.62,MCQ,B,n(n−1)/2,n(n+1)/2,n²,(n+1)²/2,The sum of the first n natural numbers is:
+Ma_Permut_11_276,Permutations,Math,11,0.74,MCQ,B,Real,Imaginary,Zero,None,The roots of x² + 2 = 0 are:
+Ma_Permut_11_277,Permutations,Math,11,0.52,MCQ,B,n(n−1)/2,n(n+1)/2,n²,(n+1)²/2,The sum of the first n natural numbers is:
+Ma_Permut_11_278,Permutations,Math,11,0.41,MCQ,B,n(n−1)/2,n(n+1)/2,n²,(n+1)²/2,The sum of the first n natural numbers is:
+Ma_Permut_11_279,Permutations,Math,11,0.41,MCQ,B,Real,Imaginary,Zero,None,The roots of x² + 4 = 0 are:
+Ma_Calcul_12_280,Calculus,Math,12,0.63,MCQ,B,Real,Imaginary,Zero,None,The roots of x² + 1 = 0 are:
+Ma_Calcul_12_281,Calculus,Math,12,0.86,MCQ,B,Real,Imaginary,Zero,None,The roots of x² + 1 = 0 are:
+Ma_Calcul_12_282,Calculus,Math,12,0.64,MCQ,A,cos x,−cos x,sin x,−sin x,The derivative of sin x is:
+Ma_Calcul_12_283,Calculus,Math,12,0.66,MCQ,A,1/2,1/3,1,2,∫₀¹ x dx equals:
+Ma_Calcul_12_284,Calculus,Math,12,0.37,MCQ,A,cos x,−cos x,sin x,−sin x,The derivative of sin x is:
+Ma_Calcul_12_285,Calculus,Math,12,0.31,MCQ,B,Real,Imaginary,Zero,None,The roots of x² + 1 = 0 are:
+Ma_Calcul_12_286,Calculus,Math,12,0.52,MCQ,B,n(n−1)/2,n(n+1)/2,n²,(n+1)²/2,The sum of the first n natural numbers is:
+Ma_Calcul_12_287,Calculus,Math,12,0.4,MCQ,B,Real,Imaginary,Zero,None,The roots of x² + 4 = 0 are:
+Ma_Integr_12_288,Integration,Math,12,0.4,MCQ,A,cos x,−cos x,sin x,−sin x,The derivative of sin x is:
+Ma_Integr_12_289,Integration,Math,12,0.69,MCQ,A,1/2,1/3,1,2,∫₀¹ x dx equals:
+Ma_Integr_12_290,Integration,Math,12,0.25,MCQ,B,n(n−1)/2,n(n+1)/2,n²,(n+1)²/2,The sum of the first n natural numbers is:
+Ma_Integr_12_291,Integration,Math,12,0.85,MCQ,A,cos x,−cos x,sin x,−sin x,The derivative of sin x is:
+Ma_Integr_12_292,Integration,Math,12,0.5,MCQ,B,Real,Imaginary,Zero,None,The roots of x² + 2 = 0 are:
+Ma_Integr_12_293,Integration,Math,12,0.65,MCQ,B,Real,Imaginary,Zero,None,The roots of x² + 2 = 0 are:
+Ma_Integr_12_294,Integration,Math,12,0.78,MCQ,A,1/2,1/3,1,2,∫₀¹ x dx equals:
+Ma_Integr_12_295,Integration,Math,12,0.62,MCQ,B,1,2,3,4,"If f(x) = x² − 2x + 2, then f(2) equals:"
+Ma_Differ_12_296,Differentiation,Math,12,0.51,MCQ,B,Real,Imaginary,Zero,None,The roots of x² + 3 = 0 are:
+Ma_Differ_12_297,Differentiation,Math,12,0.68,MCQ,B,n(n−1)/2,n(n+1)/2,n²,(n+1)²/2,The sum of the first n natural numbers is:
+Ma_Differ_12_298,Differentiation,Math,12,0.86,MCQ,B,Real,Imaginary,Zero,None,The roots of x² + 4 = 0 are:
+Ma_Differ_12_299,Differentiation,Math,12,0.51,MCQ,B,Real,Imaginary,Zero,None,The roots of x² + 4 = 0 are:
+Ma_Differ_12_300,Differentiation,Math,12,0.82,MCQ,B,Real,Imaginary,Zero,None,The roots of x² + 1 = 0 are:
+Ma_Differ_12_301,Differentiation,Math,12,0.62,MCQ,B,Real,Imaginary,Zero,None,The roots of x² + 3 = 0 are:
+Ma_Differ_12_302,Differentiation,Math,12,0.9,MCQ,B,1,2,3,4,"If f(x) = x² − 2x + 2, then f(0) equals:"
+Ma_Differ_12_303,Differentiation,Math,12,0.6,MCQ,B,Real,Imaginary,Zero,None,The roots of x² + 3 = 0 are:
+Ma_Vector_12_304,Vectors,Math,12,0.53,MCQ,A,cos x,−cos x,sin x,−sin x,The derivative of sin x is:
+Ma_Vector_12_305,Vectors,Math,12,0.84,MCQ,B,Real,Imaginary,Zero,None,The roots of x² + 4 = 0 are:
+Ma_Vector_12_306,Vectors,Math,12,0.9,MCQ,A,cos x,−cos x,sin x,−sin x,The derivative of sin x is:
+Ma_Vector_12_307,Vectors,Math,12,0.64,MCQ,B,n(n−1)/2,n(n+1)/2,n²,(n+1)²/2,The sum of the first n natural numbers is:
+Ma_Vector_12_308,Vectors,Math,12,0.88,MCQ,B,n(n−1)/2,n(n+1)/2,n²,(n+1)²/2,The sum of the first n natural numbers is:
+Ma_Vector_12_309,Vectors,Math,12,0.44,MCQ,B,n(n−1)/2,n(n+1)/2,n²,(n+1)²/2,The sum of the first n natural numbers is:
+Ma_Vector_12_310,Vectors,Math,12,0.42,MCQ,A,1/2,1/3,1,2,∫₀¹ x dx equals:
+Ma_Vector_12_311,Vectors,Math,12,0.69,MCQ,B,2,3,4,5,"If f(x) = x² − 3x + 3, then f(3) equals:"
+Ma_Matric_12_312,Matrices,Math,12,0.66,MCQ,A,1/2,1/3,1,2,∫₀¹ x dx equals:
+Ma_Matric_12_313,Matrices,Math,12,0.77,MCQ,B,n(n−1)/2,n(n+1)/2,n²,(n+1)²/2,The sum of the first n natural numbers is:
+Ma_Matric_12_314,Matrices,Math,12,0.52,MCQ,B,Real,Imaginary,Zero,None,The roots of x² + 1 = 0 are:
+Ma_Matric_12_315,Matrices,Math,12,0.38,MCQ,A,1/2,1/3,1,2,∫₀¹ x dx equals:
+Ma_Matric_12_316,Matrices,Math,12,0.49,MCQ,B,-6,-5,-4,-3,"If f(x) = x² − 5x + 1, then f(3) equals:"
+Ma_Matric_12_317,Matrices,Math,12,0.56,MCQ,A,cos x,−cos x,sin x,−sin x,The derivative of sin x is:
+Ma_Matric_12_318,Matrices,Math,12,0.64,MCQ,B,Real,Imaginary,Zero,None,The roots of x² + 4 = 0 are:
+Ma_Matric_12_319,Matrices,Math,12,0.85,MCQ,B,0,1,2,3,"If f(x) = x² − 3x + 3, then f(1) equals:"
+Ma_Probab_12_320,Probability,Math,12,0.82,MCQ,B,n(n−1)/2,n(n+1)/2,n²,(n+1)²/2,The sum of the first n natural numbers is:
+Ma_Probab_12_321,Probability,Math,12,0.28,MCQ,B,n(n−1)/2,n(n+1)/2,n²,(n+1)²/2,The sum of the first n natural numbers is:
+Ma_Probab_12_322,Probability,Math,12,0.7,MCQ,B,Real,Imaginary,Zero,None,The roots of x² + 2 = 0 are:
+Ma_Probab_12_323,Probability,Math,12,0.59,MCQ,A,1/2,1/3,1,2,∫₀¹ x dx equals:
+Ma_Probab_12_324,Probability,Math,12,0.27,MCQ,B,Real,Imaginary,Zero,None,The roots of x² + 4 = 0 are:
+Ma_Probab_12_325,Probability,Math,12,0.55,MCQ,B,-4,-3,-2,-1,"If f(x) = x² − 5x + 1, then f(1) equals:"
+Ma_Probab_12_326,Probability,Math,12,0.56,MCQ,B,Real,Imaginary,Zero,None,The roots of x² + 3 = 0 are:
+Ma_Probab_12_327,Probability,Math,12,0.49,MCQ,A,1/2,1/3,1,2,∫₀¹ x dx equals:
+Ma_Comple_12_328,Complex Numbers,Math,12,0.89,MCQ,B,n(n−1)/2,n(n+1)/2,n²,(n+1)²/2,The sum of the first n natural numbers is:
+Ma_Comple_12_329,Complex Numbers,Math,12,0.52,MCQ,A,cos x,−cos x,sin x,−sin x,The derivative of sin x is:
+Ma_Comple_12_330,Complex Numbers,Math,12,0.47,MCQ,A,cos x,−cos x,sin x,−sin x,The derivative of sin x is:
+Ma_Comple_12_331,Complex Numbers,Math,12,0.8,MCQ,B,Real,Imaginary,Zero,None,The roots of x² + 2 = 0 are:
+Ma_Comple_12_332,Complex Numbers,Math,12,0.74,MCQ,A,1/2,1/3,1,2,∫₀¹ x dx equals:
+Ma_Comple_12_333,Complex Numbers,Math,12,0.44,MCQ,B,n(n−1)/2,n(n+1)/2,n²,(n+1)²/2,The sum of the first n natural numbers is:
+Ma_Comple_12_334,Complex Numbers,Math,12,0.77,MCQ,B,Real,Imaginary,Zero,None,The roots of x² + 3 = 0 are:
+Ma_Comple_12_335,Complex Numbers,Math,12,0.71,MCQ,A,1/2,1/3,1,2,∫₀¹ x dx equals:
+Ma_Comple_12_336,Complex Numbers,Math,12,0.3,MCQ,A,cos x,−cos x,sin x,−sin x,The derivative of sin x is:
+Ma_Differ_12_337,Differentiation,Math,12,0.43,MCQ,A,cos x,−cos x,sin x,−sin x,The derivative of sin x is:
+Ma_Vector_12_338,Vectors,Math,12,0.85,MCQ,A,cos x,−cos x,sin x,−sin x,The derivative of sin x is:
+Ph_Gravit_11_339,Gravitation,Physics,11,0.47,MCQ,C,Displacement,Velocity,Speed,Acceleration,Which quantity is scalar?
+Ch_Chemic_11_340,Chemical Bonding,Chemistry,11,0.72,MCQ,A,6.02 × 10²³,3.00 × 10⁸,1.60 × 10⁻¹⁹,9.81,Avogadro's number is approximately:
+Ma_Vector_12_341,Vectors,Math,12,0.89,MCQ,A,cos x,−cos x,sin x,−sin x,The derivative of sin x is:
+Ma_Straig_11_342,Straight Lines,Math,11,0.88,MCQ,A,cos x,−cos x,sin x,−sin x,The derivative of sin x is:
+Ph_Semico_12_343,Semiconductors,Physics,12,0.27,MCQ,C,Displacement,Velocity,Speed,Acceleration,Which quantity is scalar?
+Ch_RedoxR_11_344,Redox Reactions,Chemistry,11,0.84,MCQ,A,6.02 × 10²³,3.00 × 10⁸,1.60 × 10⁻¹⁹,9.81,Avogadro's number is approximately:
+Ph_Lawsof_11_345,Laws of Motion,Physics,11,0.81,MCQ,C,Displacement,Velocity,Speed,Acceleration,Which quantity is scalar?
+Ph_Lawsof_11_346,Laws of Motion,Physics,11,0.75,MCQ,C,Displacement,Velocity,Speed,Acceleration,Which quantity is scalar?
+Ch_Coordi_12_347,Coordination Compounds,Chemistry,12,0.68,MCQ,A,6.02 × 10²³,3.00 × 10⁸,1.60 × 10⁻¹⁹,9.81,Avogadro's number is approximately:
+Ma_Permut_11_348,Permutations,Math,11,0.43,MCQ,A,cos x,−cos x,sin x,−sin x,The derivative of sin x is:
+Ma_Differ_12_349,Differentiation,Math,12,0.64,MCQ,A,cos x,−cos x,sin x,−sin x,The derivative of sin x is:
+Ch_RedoxR_11_350,Redox Reactions,Chemistry,11,0.25,MCQ,A,6.02 × 10²³,3.00 × 10⁸,1.60 × 10⁻¹⁹,9.81,Avogadro's number is approximately:
+Ma_Integr_12_351,Integration,Math,12,0.72,MCQ,A,cos x,−cos x,sin x,−sin x,The derivative of sin x is:
+Ch_States_11_352,States of Matter,Chemistry,11,0.64,MCQ,A,6.02 × 10²³,3.00 × 10⁸,1.60 × 10⁻¹⁹,9.81,Avogadro's number is approximately:
+Ph_Curren_12_353,Current Electricity,Physics,12,0.69,MCQ,C,Displacement,Velocity,Speed,Acceleration,Which quantity is scalar?
+Ph_Kinema_11_354,Kinematics,Physics,11,0.76,MCQ,C,Displacement,Velocity,Speed,Acceleration,Which quantity is scalar?
+Ch_SolidS_12_355,Solid State,Chemistry,12,0.5,MCQ,A,6.02 × 10²³,3.00 × 10⁸,1.60 × 10⁻¹⁹,9.81,Avogadro's number is approximately:
+Ph_Magnet_12_356,Magnetism,Physics,12,0.68,MCQ,C,Displacement,Velocity,Speed,Acceleration,Which quantity is scalar?
+Ph_Workan_11_357,Work and Energy,Physics,11,0.26,MCQ,C,Displacement,Velocity,Speed,Acceleration,Which quantity is scalar?
+Ch_Equili_11_358,Equilibrium,Chemistry,11,0.84,MCQ,A,6.02 × 10²³,3.00 × 10⁸,1.60 × 10⁻¹⁹,9.81,Avogadro's number is approximately:
+Ph_Lawsof_11_359,Laws of Motion,Physics,11,0.65,MCQ,C,Displacement,Velocity,Speed,Acceleration,Which quantity is scalar?
+Ch_Biomol_12_360,Biomolecules,Chemistry,12,0.21,MCQ,A,6.02 × 10²³,3.00 × 10⁸,1.60 × 10⁻¹⁹,9.81,Avogadro's number is approximately:
+Ch_Biomol_12_361,Biomolecules,Chemistry,12,0.58,MCQ,A,6.02 × 10²³,3.00 × 10⁸,1.60 × 10⁻¹⁹,9.81,Avogadro's number is approximately:
+Ph_Optics_12_362,Optics,Physics,12,0.89,MCQ,C,Displacement,Velocity,Speed,Acceleration,Which quantity is scalar?
+Ch_Biomol_12_363,Biomolecules,Chemistry,12,0.38,MCQ,A,6.02 × 10²³,3.00 × 10⁸,1.60 × 10⁻¹⁹,9.81,Avogadro's number is approximately:
+Ch_Equili_11_364,Equilibrium,Chemistry,11,0.8,MCQ,A,6.02 × 10²³,3.00 × 10⁸,1.60 × 10⁻¹⁹,9.81,Avogadro's number is approximately:
+Ph_Lawsof_11_365,Laws of Motion,Physics,11,0.6,MCQ,C,Displacement,Velocity,Speed,Acceleration,Which quantity is scalar?
+Ma_Probab_12_366,Probability,Math,12,0.41,MCQ,A,cos x,−cos x,sin x,−sin x,The derivative of sin x is:
+Ma_Differ_12_367,Differentiation,Math,12,0.21,MCQ,A,cos x,−cos x,sin x,−sin x,The derivative of sin x is:
+Ma_ConicS_11_368,Conic Sections,Math,11,0.72,MCQ,A,cos x,−cos x,sin x,−sin x,The derivative of sin x is:
+Ch_RedoxR_11_369,Redox Reactions,Chemistry,11,0.76,MCQ,A,6.02 × 10²³,3.00 × 10⁸,1.60 × 10⁻¹⁹,9.81,Avogadro's number is approximately:
+Ph_Gravit_11_370,Gravitation,Physics,11,0.38,MCQ,C,Displacement,Velocity,Speed,Acceleration,Which quantity is scalar?
+Ma_Probab_11_371,Probability,Math,11,0.27,MCQ,A,cos x,−cos x,sin x,−sin x,The derivative of sin x is:
+Ma_Trigon_11_372,Trigonometry,Math,11,0.75,MCQ,A,cos x,−cos x,sin x,−sin x,The derivative of sin x is:
+Ph_Thermo_12_373,Thermodynamics,Physics,12,0.29,MCQ,C,Displacement,Velocity,Speed,Acceleration,Which quantity is scalar?
+Ch_Biomol_12_374,Biomolecules,Chemistry,12,0.49,MCQ,A,6.02 × 10²³,3.00 × 10⁸,1.60 × 10⁻¹⁹,9.81,Avogadro's number is approximately:
+Ph_Waves_11_375,Waves,Physics,11,0.58,MCQ,C,Displacement,Velocity,Speed,Acceleration,Which quantity is scalar?
+Ch_Surfac_12_376,Surface Chemistry,Chemistry,12,0.32,MCQ,A,6.02 × 10²³,3.00 × 10⁸,1.60 × 10⁻¹⁹,9.81,Avogadro's number is approximately:
+Ch_Biomol_12_377,Biomolecules,Chemistry,12,0.81,MCQ,A,6.02 × 10²³,3.00 × 10⁸,1.60 × 10⁻¹⁹,9.81,Avogadro's number is approximately:
+Ph_Electr_12_378,Electrostatics,Physics,12,0.3,MCQ,C,Displacement,Velocity,Speed,Acceleration,Which quantity is scalar?
+Ph_Semico_12_379,Semiconductors,Physics,12,0.76,MCQ,C,Displacement,Velocity,Speed,Acceleration,Which quantity is scalar?
+Ch_States_11_380,States of Matter,Chemistry,11,0.48,MCQ,A,6.02 × 10²³,3.00 × 10⁸,1.60 × 10⁻¹⁹,9.81,Avogadro's number is approximately:
+Ch_Equili_11_381,Equilibrium,Chemistry,11,0.46,MCQ,A,6.02 × 10²³,3.00 × 10⁸,1.60 × 10⁻¹⁹,9.81,Avogadro's number is approximately:
+Ma_Matric_12_382,Matrices,Math,12,0.47,MCQ,A,cos x,−cos x,sin x,−sin x,The derivative of sin x is:
+Ma_Calcul_12_383,Calculus,Math,12,0.67,MCQ,A,cos x,−cos x,sin x,−sin x,The derivative of sin x is:
+Ch_RedoxR_11_384,Redox Reactions,Chemistry,11,0.82,MCQ,A,6.02 × 10²³,3.00 × 10⁸,1.60 × 10⁻¹⁹,9.81,Avogadro's number is approximately:
+Ma_Matric_12_385,Matrices,Math,12,0.35,MCQ,A,cos x,−cos x,sin x,−sin x,The derivative of sin x is:
+Ph_Thermo_12_386,Thermodynamics,Physics,12,0.41,MCQ,C,Displacement,Velocity,Speed,Acceleration,Which quantity is scalar?
+Ch_MoleCo_11_387,Mole Concept,Chemistry,11,0.23,MCQ,A,6.02 × 10²³,3.00 × 10⁸,1.60 × 10⁻¹⁹,9.81,Avogadro's number is approximately:
+Ph_Modern_12_388,Modern Physics,Physics,12,0.28,MCQ,C,Displacement,Velocity,Speed,Acceleration,Which quantity is scalar?
+Ph_Lawsof_11_389,Laws of Motion,Physics,11,0.52,MCQ,C,Displacement,Velocity,Speed,Acceleration,Which quantity is scalar?
+Ma_Matric_12_390,Matrices,Math,12,0.72,MCQ,A,cos x,−cos x,sin x,−sin x,The derivative of sin x is:
+Ph_Thermo_12_391,Thermodynamics,Physics,12,0.27,MCQ,C,Displacement,Velocity,Speed,Acceleration,Which quantity is scalar?
+Ch_SolidS_12_392,Solid State,Chemistry,12,0.22,MCQ,A,6.02 × 10²³,3.00 × 10⁸,1.60 × 10⁻¹⁹,9.81,Avogadro's number is approximately:
+Ch_Equili_11_393,Equilibrium,Chemistry,11,0.51,MCQ,A,6.02 × 10²³,3.00 × 10⁸,1.60 × 10⁻¹⁹,9.81,Avogadro's number is approximately:
+Ph_Electr_12_394,Electrostatics,Physics,12,0.89,MCQ,C,Displacement,Velocity,Speed,Acceleration,Which quantity is scalar?
+Ch_Organi_12_395,Organic Chemistry,Chemistry,12,0.48,MCQ,A,6.02 × 10²³,3.00 × 10⁸,1.60 × 10⁻¹⁹,9.81,Avogadro's number is approximately:
+Ph_Waves_11_396,Waves,Physics,11,0.78,MCQ,C,Displacement,Velocity,Speed,Acceleration,Which quantity is scalar?
+Ph_Oscill_11_397,Oscillations,Physics,11,0.65,MCQ,C,Displacement,Velocity,Speed,Acceleration,Which quantity is scalar?
+Ph_Waves_11_398,Waves,Physics,11,0.43,MCQ,C,Displacement,Velocity,Speed,Acceleration,Which quantity is scalar?
+Ph_Mechan_11_399,Mechanics,Physics,11,0.78,MCQ,C,Displacement,Velocity,Speed,Acceleration,Which quantity is scalar?
+Ma_ConicS_11_400,Conic Sections,Math,11,0.35,MCQ,A,cos x,−cos x,sin x,−sin x,The derivative of sin x is:
+Ph_Semico_12_401,Semiconductors,Physics,12,0.3,MCQ,C,Displacement,Velocity,Speed,Acceleration,Which quantity is scalar?
+Ma_Trigon_11_402,Trigonometry,Math,11,0.8,MCQ,A,cos x,−cos x,sin x,−sin x,The derivative of sin x is:
+Ph_Gravit_11_403,Gravitation,Physics,11,0.38,MCQ,C,Displacement,Velocity,Speed,Acceleration,Which quantity is scalar?
+Ph_Oscill_11_404,Oscillations,Physics,11,0.81,MCQ,C,Displacement,Velocity,Speed,Acceleration,Which quantity is scalar?
+Ph_Kinema_11_405,Kinematics,Physics,11,0.75,MCQ,C,Displacement,Velocity,Speed,Acceleration,Which quantity is scalar?
+Ph_Electr_12_406,Electrostatics,Physics,12,0.32,MCQ,C,Displacement,Velocity,Speed,Acceleration,Which quantity is scalar?
+Ph_Oscill_11_407,Oscillations,Physics,11,0.49,MCQ,C,Displacement,Velocity,Speed,Acceleration,Which quantity is scalar?
+Ph_Lawsof_11_408,Laws of Motion,Physics,11,0.51,MCQ,C,Displacement,Velocity,Speed,Acceleration,Which quantity is scalar?
+Ch_Equili_11_409,Equilibrium,Chemistry,11,0.55,MCQ,A,6.02 × 10²³,3.00 × 10⁸,1.60 × 10⁻¹⁹,9.81,Avogadro's number is approximately:
+Ma_Probab_11_410,Probability,Math,11,0.75,MCQ,A,cos x,−cos x,sin x,−sin x,The derivative of sin x is:
+Ma_Vector_12_411,Vectors,Math,12,0.65,MCQ,A,cos x,−cos x,sin x,−sin x,The derivative of sin x is:
+Ph_Lawsof_11_412,Laws of Motion,Physics,11,0.79,MCQ,C,Displacement,Velocity,Speed,Acceleration,Which quantity is scalar?
+Ch_Equili_11_413,Equilibrium,Chemistry,11,0.7,MCQ,A,6.02 × 10²³,3.00 × 10⁸,1.60 × 10⁻¹⁹,9.81,Avogadro's number is approximately:
+Ch_Atomic_11_414,Atomic Structure,Chemistry,11,0.43,MCQ,A,6.02 × 10²³,3.00 × 10⁸,1.60 × 10⁻¹⁹,9.81,Avogadro's number is approximately:
+Ph_Workan_11_415,Work and Energy,Physics,11,0.39,MCQ,C,Displacement,Velocity,Speed,Acceleration,Which quantity is scalar?
+Ma_Vector_12_416,Vectors,Math,12,0.9,MCQ,A,cos x,−cos x,sin x,−sin x,The derivative of sin x is:
+Ma_Vector_12_417,Vectors,Math,12,0.55,MCQ,A,cos x,−cos x,sin x,−sin x,The derivative of sin x is:
+Ch_States_11_418,States of Matter,Chemistry,11,0.69,MCQ,A,6.02 × 10²³,3.00 × 10⁸,1.60 × 10⁻¹⁹,9.81,Avogadro's number is approximately:
+Ma_Straig_11_419,Straight Lines,Math,11,0.52,MCQ,A,cos x,−cos x,sin x,−sin x,The derivative of sin x is:
+Ph_Optics_12_420,Optics,Physics,12,0.78,MCQ,C,Displacement,Velocity,Speed,Acceleration,Which quantity is scalar?
+Ch_Biomol_12_421,Biomolecules,Chemistry,12,0.27,MCQ,A,6.02 × 10²³,3.00 × 10⁸,1.60 × 10⁻¹⁹,9.81,Avogadro's number is approximately:
+Ch_Biomol_12_422,Biomolecules,Chemistry,12,0.38,MCQ,A,6.02 × 10²³,3.00 × 10⁸,1.60 × 10⁻¹⁹,9.81,Avogadro's number is approximately:
+Ph_Electr_12_423,Electrostatics,Physics,12,0.26,MCQ,C,Displacement,Velocity,Speed,Acceleration,Which quantity is scalar?
+Ph_Lawsof_11_424,Laws of Motion,Physics,11,0.27,MCQ,C,Displacement,Velocity,Speed,Acceleration,Which quantity is scalar?
+Ma_Comple_12_425,Complex Numbers,Math,12,0.29,MCQ,A,cos x,−cos x,sin x,−sin x,The derivative of sin x is:
+Ph_Thermo_12_426,Thermodynamics,Physics,12,0.29,MCQ,C,Displacement,Velocity,Speed,Acceleration,Which quantity is scalar?
+Ch_Surfac_12_427,Surface Chemistry,Chemistry,12,0.84,MCQ,A,6.02 × 10²³,3.00 × 10⁸,1.60 × 10⁻¹⁹,9.81,Avogadro's number is approximately:
+Ph_Magnet_12_428,Magnetism,Physics,12,0.42,MCQ,C,Displacement,Velocity,Speed,Acceleration,Which quantity is scalar?
+Ph_Workan_11_429,Work and Energy,Physics,11,0.66,MCQ,C,Displacement,Velocity,Speed,Acceleration,Which quantity is scalar?
+Ph_Kinema_11_430,Kinematics,Physics,11,0.79,MCQ,C,Displacement,Velocity,Speed,Acceleration,Which quantity is scalar?
+Ch_States_11_431,States of Matter,Chemistry,11,0.39,MCQ,A,6.02 × 10²³,3.00 × 10⁸,1.60 × 10⁻¹⁹,9.81,Avogadro's number is approximately:
+Ph_Semico_12_432,Semiconductors,Physics,12,0.59,MCQ,C,Displacement,Velocity,Speed,Acceleration,Which quantity is scalar?
+Ma_ConicS_11_433,Conic Sections,Math,11,0.85,MCQ,A,cos x,−cos x,sin x,−sin x,The derivative of sin x is:
+Ma_Calcul_12_434,Calculus,Math,12,0.33,MCQ,A,cos x,−cos x,sin x,−sin x,The derivative of sin x is:
+Ma_Differ_12_435,Differentiation,Math,12,0.45,MCQ,A,cos x,−cos x,sin x,−sin x,The derivative of sin x is:
+Ph_Gravit_11_436,Gravitation,Physics,11,0.66,MCQ,C,Displacement,Velocity,Speed,Acceleration,Which quantity is scalar?
+Ph_Oscill_11_437,Oscillations,Physics,11,0.64,MCQ,C,Displacement,Velocity,Speed,Acceleration,Which quantity is scalar?
+Ph_Oscill_11_438,Oscillations,Physics,11,0.57,MCQ,C,Displacement,Velocity,Speed,Acceleration,Which quantity is scalar?
+Ch_Chemic_12_439,Chemical Kinetics,Chemistry,12,0.44,MCQ,A,6.02 × 10²³,3.00 × 10⁸,1.60 × 10⁻¹⁹,9.81,Avogadro's number is approximately:
+Ch_Biomol_12_440,Biomolecules,Chemistry,12,0.43,MCQ,A,6.02 × 10²³,3.00 × 10⁸,1.60 × 10⁻¹⁹,9.81,Avogadro's number is approximately:
+Ma_Sets_11_441,Sets,Math,11,0.31,MCQ,A,cos x,−cos x,sin x,−sin x,The derivative of sin x is:
+Ma_Probab_11_442,Probability,Math,11,0.26,MCQ,A,cos x,−cos x,sin x,−sin x,The derivative of sin x is:
+Ch_Chemic_12_443,Chemical Kinetics,Chemistry,12,0.62,MCQ,A,6.02 × 10²³,3.00 × 10⁸,1.60 × 10⁻¹⁹,9.81,Avogadro's number is approximately:
+Ch_Electr_12_444,Electrochemistry,Chemistry,12,0.73,MCQ,A,6.02 × 10²³,3.00 × 10⁸,1.60 × 10⁻¹⁹,9.81,Avogadro's number is approximately:
+Ph_Modern_12_445,Modern Physics,Physics,12,0.28,MCQ,C,Displacement,Velocity,Speed,Acceleration,Which quantity is scalar?
+Ma_Matric_12_446,Matrices,Math,12,0.67,MCQ,A,cos x,−cos x,sin x,−sin x,The derivative of sin x is:
+Ph_Lawsof_11_447,Laws of Motion,Physics,11,0.89,MCQ,C,Displacement,Velocity,Speed,Acceleration,Which quantity is scalar?
+Ph_Workan_11_448,Work and Energy,Physics,11,0.41,MCQ,C,Displacement,Velocity,Speed,Acceleration,Which quantity is scalar?
+Ph_Waves_11_449,Waves,Physics,11,0.38,MCQ,C,Displacement,Velocity,Speed,Acceleration,Which quantity is scalar?
+Ch_Atomic_11_450,Atomic Structure,Chemistry,11,0.55,MCQ,A,6.02 × 10²³,3.00 × 10⁸,1.60 × 10⁻¹⁹,9.81,Avogadro's number is approximately:
+Ch_MoleCo_11_451,Mole Concept,Chemistry,11,0.47,MCQ,A,6.02 × 10²³,3.00 × 10⁸,1.60 × 10⁻¹⁹,9.81,Avogadro's number is approximately:
+Ma_ConicS_11_452,Conic Sections,Math,11,0.59,MCQ,A,cos x,−cos x,sin x,−sin x,The derivative of sin x is:
+Ma_Calcul_12_453,Calculus,Math,12,0.48,MCQ,A,cos x,−cos x,sin x,−sin x,The derivative of sin x is:
+Ma_Straig_11_454,Straight Lines,Math,11,0.21,MCQ,A,cos x,−cos x,sin x,−sin x,The derivative of sin x is:
+Ph_Magnet_12_455,Magnetism,Physics,12,0.5,MCQ,C,Displacement,Velocity,Speed,Acceleration,Which quantity is scalar?
+Ch_SolidS_12_456,Solid State,Chemistry,12,0.28,MCQ,A,6.02 × 10²³,3.00 × 10⁸,1.60 × 10⁻¹⁹,9.81,Avogadro's number is approximately:
+Ph_Curren_12_457,Current Electricity,Physics,12,0.76,MCQ,C,Displacement,Velocity,Speed,Acceleration,Which quantity is scalar?
+Ma_Comple_12_458,Complex Numbers,Math,12,0.68,MCQ,A,cos x,−cos x,sin x,−sin x,The derivative of sin x is:
+Ch_Equili_11_459,Equilibrium,Chemistry,11,0.79,MCQ,A,6.02 × 10²³,3.00 × 10⁸,1.60 × 10⁻¹⁹,9.81,Avogadro's number is approximately:
+Ph_Magnet_12_460,Magnetism,Physics,12,0.48,MCQ,C,Displacement,Velocity,Speed,Acceleration,Which quantity is scalar?
+Ph_Semico_12_461,Semiconductors,Physics,12,0.42,MCQ,C,Displacement,Velocity,Speed,Acceleration,Which quantity is scalar?
+Ch_Chemic_11_462,Chemical Bonding,Chemistry,11,0.75,MCQ,A,6.02 × 10²³,3.00 × 10⁸,1.60 × 10⁻¹⁹,9.81,Avogadro's number is approximately:
+Ph_Gravit_11_463,Gravitation,Physics,11,0.56,MCQ,C,Displacement,Velocity,Speed,Acceleration,Which quantity is scalar?
+Ch_Biomol_12_464,Biomolecules,Chemistry,12,0.87,MCQ,A,6.02 × 10²³,3.00 × 10⁸,1.60 × 10⁻¹⁹,9.81,Avogadro's number is approximately:
+Ma_Relati_11_465,Relations and Functions,Math,11,0.27,MCQ,A,cos x,−cos x,sin x,−sin x,The derivative of sin x is:
+Ch_MoleCo_11_466,Mole Concept,Chemistry,11,0.62,MCQ,A,6.02 × 10²³,3.00 × 10⁸,1.60 × 10⁻¹⁹,9.81,Avogadro's number is approximately:
+Ma_Relati_11_467,Relations and Functions,Math,11,0.87,MCQ,A,cos x,−cos x,sin x,−sin x,The derivative of sin x is:
+Ma_Vector_12_468,Vectors,Math,12,0.73,MCQ,A,cos x,−cos x,sin x,−sin x,The derivative of sin x is:
+Ma_Probab_12_469,Probability,Math,12,0.85,MCQ,A,cos x,−cos x,sin x,−sin x,The derivative of sin x is:
+Ma_Comple_12_470,Complex Numbers,Math,12,0.88,MCQ,A,cos x,−cos x,sin x,−sin x,The derivative of sin x is:
+Ch_Equili_11_471,Equilibrium,Chemistry,11,0.25,MCQ,A,6.02 × 10²³,3.00 × 10⁸,1.60 × 10⁻¹⁹,9.81,Avogadro's number is approximately:
+Ch_Surfac_12_472,Surface Chemistry,Chemistry,12,0.39,MCQ,A,6.02 × 10²³,3.00 × 10⁸,1.60 × 10⁻¹⁹,9.81,Avogadro's number is approximately:
+Ph_Magnet_12_473,Magnetism,Physics,12,0.25,MCQ,C,Displacement,Velocity,Speed,Acceleration,Which quantity is scalar?
+Ch_Organi_12_474,Organic Chemistry,Chemistry,12,0.24,MCQ,A,6.02 × 10²³,3.00 × 10⁸,1.60 × 10⁻¹⁹,9.81,Avogadro's number is approximately:
+Ch_Period_11_475,Periodic Properties,Chemistry,11,0.8,MCQ,A,6.02 × 10²³,3.00 × 10⁸,1.60 × 10⁻¹⁹,9.81,Avogadro's number is approximately:
+Ph_Modern_12_476,Modern Physics,Physics,12,0.61,MCQ,C,Displacement,Velocity,Speed,Acceleration,Which quantity is scalar?
+Ma_Straig_11_477,Straight Lines,Math,11,0.84,MCQ,A,cos x,−cos x,sin x,−sin x,The derivative of sin x is:
+Ma_Trigon_11_478,Trigonometry,Math,11,0.62,MCQ,A,cos x,−cos x,sin x,−sin x,The derivative of sin x is:
+Ma_Sets_11_479,Sets,Math,11,0.52,MCQ,A,cos x,−cos x,sin x,−sin x,The derivative of sin x is:
+Ch_RedoxR_11_480,Redox Reactions,Chemistry,11,0.65,MCQ,A,6.02 × 10²³,3.00 × 10⁸,1.60 × 10⁻¹⁹,9.81,Avogadro's number is approximately:
+Ph_Oscill_11_481,Oscillations,Physics,11,0.51,MCQ,C,Displacement,Velocity,Speed,Acceleration,Which quantity is scalar?
+Ch_Chemic_11_482,Chemical Bonding,Chemistry,11,0.46,MCQ,A,6.02 × 10²³,3.00 × 10⁸,1.60 × 10⁻¹⁹,9.81,Avogadro's number is approximately:
+Ch_Chemic_12_483,Chemical Kinetics,Chemistry,12,0.74,MCQ,A,6.02 × 10²³,3.00 × 10⁸,1.60 × 10⁻¹⁹,9.81,Avogadro's number is approximately:
+Ma_Permut_11_484,Permutations,Math,11,0.64,MCQ,A,cos x,−cos x,sin x,−sin x,The derivative of sin x is:
+Ch_Chemic_11_485,Chemical Bonding,Chemistry,11,0.27,MCQ,A,6.02 × 10²³,3.00 × 10⁸,1.60 × 10⁻¹⁹,9.81,Avogadro's number is approximately:
+Ma_Differ_12_486,Differentiation,Math,12,0.38,MCQ,A,cos x,−cos x,sin x,−sin x,The derivative of sin x is:
+Ma_Trigon_11_487,Trigonometry,Math,11,0.26,MCQ,A,cos x,−cos x,sin x,−sin x,The derivative of sin x is:
+Ma_Trigon_11_488,Trigonometry,Math,11,0.42,MCQ,A,cos x,−cos x,sin x,−sin x,The derivative of sin x is:
+Ma_Integr_12_489,Integration,Math,12,0.62,MCQ,A,cos x,−cos x,sin x,−sin x,The derivative of sin x is:
+Ph_Magnet_12_490,Magnetism,Physics,12,0.46,MCQ,C,Displacement,Velocity,Speed,Acceleration,Which quantity is scalar?
+Ch_Period_11_491,Periodic Properties,Chemistry,11,0.69,MCQ,A,6.02 × 10²³,3.00 × 10⁸,1.60 × 10⁻¹⁹,9.81,Avogadro's number is approximately:
+Ma_Probab_11_492,Probability,Math,11,0.67,MCQ,A,cos x,−cos x,sin x,−sin x,The derivative of sin x is:
+Ma_Calcul_12_493,Calculus,Math,12,0.45,MCQ,A,cos x,−cos x,sin x,−sin x,The derivative of sin x is:
+Ph_Kinema_11_494,Kinematics,Physics,11,0.86,MCQ,C,Displacement,Velocity,Speed,Acceleration,Which quantity is scalar?
+Ch_MoleCo_11_495,Mole Concept,Chemistry,11,0.9,MCQ,A,6.02 × 10²³,3.00 × 10⁸,1.60 × 10⁻¹⁹,9.81,Avogadro's number is approximately:
+Ph_Kinema_11_496,Kinematics,Physics,11,0.79,MCQ,C,Displacement,Velocity,Speed,Acceleration,Which quantity is scalar?
+Ph_Oscill_11_497,Oscillations,Physics,11,0.44,MCQ,C,Displacement,Velocity,Speed,Acceleration,Which quantity is scalar?
+Ma_ConicS_11_498,Conic Sections,Math,11,0.46,MCQ,A,cos x,−cos x,sin x,−sin x,The derivative of sin x is:
+Ph_Waves_11_499,Waves,Physics,11,0.68,MCQ,C,Displacement,Velocity,Speed,Acceleration,Which quantity is scalar?
+Ma_Probab_11_500,Probability,Math,11,0.51,MCQ,A,cos x,−cos x,sin x,−sin x,The derivative of sin x is:
+Ch_Biomol_12_501,Biomolecules,Chemistry,12,0.7,MCQ,A,6.02 × 10²³,3.00 × 10⁸,1.60 × 10⁻¹⁹,9.81,Avogadro's number is approximately:
+Ch_Surfac_12_502,Surface Chemistry,Chemistry,12,0.72,MCQ,A,6.02 × 10²³,3.00 × 10⁸,1.60 × 10⁻¹⁹,9.81,Avogadro's number is approximately:
+Ch_RedoxR_11_503,Redox Reactions,Chemistry,11,0.37,MCQ,A,6.02 × 10²³,3.00 × 10⁸,1.60 × 10⁻¹⁹,9.81,Avogadro's number is approximately:
+Ch_Chemic_11_504,Chemical Bonding,Chemistry,11,0.67,MCQ,A,6.02 × 10²³,3.00 × 10⁸,1.60 × 10⁻¹⁹,9.81,Avogadro's number is approximately:
+Ma_Vector_12_505,Vectors,Math,12,0.74,MCQ,A,cos x,−cos x,sin x,−sin x,The derivative of sin x is:
+Ch_Electr_12_506,Electrochemistry,Chemistry,12,0.77,MCQ,A,6.02 × 10²³,3.00 × 10⁸,1.60 × 10⁻¹⁹,9.81,Avogadro's number is approximately:
+Ma_Permut_11_507,Permutations,Math,11,0.38,MCQ,A,cos x,−cos x,sin x,−sin x,The derivative of sin x is:
+Ma_Comple_12_508,Complex Numbers,Math,12,0.46,MCQ,A,cos x,−cos x,sin x,−sin x,The derivative of sin x is:
+Ph_Kinema_11_509,Kinematics,Physics,11,0.26,MCQ,C,Displacement,Velocity,Speed,Acceleration,Which quantity is scalar?
+Ph_Modern_12_510,Modern Physics,Physics,12,0.83,MCQ,C,Displacement,Velocity,Speed,Acceleration,Which quantity is scalar?
+Ph_Electr_12_511,Electrostatics,Physics,12,0.86,MCQ,C,Displacement,Velocity,Speed,Acceleration,Which quantity is scalar?
+Ph_Optics_12_512,Optics,Physics,12,0.85,MCQ,C,Displacement,Velocity,Speed,Acceleration,Which quantity is scalar?
+Ch_Equili_11_513,Equilibrium,Chemistry,11,0.55,MCQ,A,6.02 × 10²³,3.00 × 10⁸,1.60 × 10⁻¹⁹,9.81,Avogadro's number is approximately:
+Ph_Electr_12_514,Electrostatics,Physics,12,0.46,MCQ,C,Displacement,Velocity,Speed,Acceleration,Which quantity is scalar?
+Ph_Electr_12_515,Electrostatics,Physics,12,0.79,MCQ,C,Displacement,Velocity,Speed,Acceleration,Which quantity is scalar?
+Ma_Comple_12_516,Complex Numbers,Math,12,0.3,MCQ,A,cos x,−cos x,sin x,−sin x,The derivative of sin x is:
+Ph_Semico_12_517,Semiconductors,Physics,12,0.53,MCQ,C,Displacement,Velocity,Speed,Acceleration,Which quantity is scalar?
+Ph_Modern_12_518,Modern Physics,Physics,12,0.63,MCQ,C,Displacement,Velocity,Speed,Acceleration,Which quantity is scalar?
+Ph_Kinema_11_519,Kinematics,Physics,11,0.35,MCQ,C,Displacement,Velocity,Speed,Acceleration,Which quantity is scalar?
+Ph_Electr_12_520,Electrostatics,Physics,12,0.74,MCQ,C,Displacement,Velocity,Speed,Acceleration,Which quantity is scalar?
+Ph_Electr_12_521,Electrostatics,Physics,12,0.23,MCQ,C,Displacement,Velocity,Speed,Acceleration,Which quantity is scalar?
+Ch_Organi_12_522,Organic Chemistry,Chemistry,12,0.28,MCQ,A,6.02 × 10²³,3.00 × 10⁸,1.60 × 10⁻¹⁹,9.81,Avogadro's number is approximately:
+Ch_Period_11_523,Periodic Properties,Chemistry,11,0.56,MCQ,A,6.02 × 10²³,3.00 × 10⁸,1.60 × 10⁻¹⁹,9.81,Avogadro's number is approximately:
+Ph_Kinema_11_524,Kinematics,Physics,11,0.5,MCQ,C,Displacement,Velocity,Speed,Acceleration,Which quantity is scalar?
+Ma_Integr_12_525,Integration,Math,12,0.6,MCQ,A,cos x,−cos x,sin x,−sin x,The derivative of sin x is:
+Ph_Gravit_11_526,Gravitation,Physics,11,0.88,MCQ,C,Displacement,Velocity,Speed,Acceleration,Which quantity is scalar?
+Ph_Lawsof_11_527,Laws of Motion,Physics,11,0.81,MCQ,C,Displacement,Velocity,Speed,Acceleration,Which quantity is scalar?
+Ph_Optics_12_528,Optics,Physics,12,0.38,MCQ,C,Displacement,Velocity,Speed,Acceleration,Which quantity is scalar?
+Ph_Semico_12_529,Semiconductors,Physics,12,0.25,MCQ,C,Displacement,Velocity,Speed,Acceleration,Which quantity is scalar?
+Ph_Waves_11_530,Waves,Physics,11,0.61,MCQ,C,Displacement,Velocity,Speed,Acceleration,Which quantity is scalar?
+Ch_Atomic_11_531,Atomic Structure,Chemistry,11,0.45,MCQ,A,6.02 × 10²³,3.00 × 10⁸,1.60 × 10⁻¹⁹,9.81,Avogadro's number is approximately:
+Ch_States_11_532,States of Matter,Chemistry,11,0.75,MCQ,A,6.02 × 10²³,3.00 × 10⁸,1.60 × 10⁻¹⁹,9.81,Avogadro's number is approximately:
+Ch_Biomol_12_533,Biomolecules,Chemistry,12,0.33,MCQ,A,6.02 × 10²³,3.00 × 10⁸,1.60 × 10⁻¹⁹,9.81,Avogadro's number is approximately:
+Ph_Oscill_11_534,Oscillations,Physics,11,0.74,MCQ,C,Displacement,Velocity,Speed,Acceleration,Which quantity is scalar?
+Ch_Chemic_11_535,Chemical Bonding,Chemistry,11,0.34,MCQ,A,6.02 × 10²³,3.00 × 10⁸,1.60 × 10⁻¹⁹,9.81,Avogadro's number is approximately:
+Ph_Kinema_11_536,Kinematics,Physics,11,0.85,MCQ,C,Displacement,Velocity,Speed,Acceleration,Which quantity is scalar?
+Ma_Comple_12_537,Complex Numbers,Math,12,0.58,MCQ,A,cos x,−cos x,sin x,−sin x,The derivative of sin x is:
+Ch_States_11_538,States of Matter,Chemistry,11,0.65,MCQ,A,6.02 × 10²³,3.00 × 10⁸,1.60 × 10⁻¹⁹,9.81,Avogadro's number is approximately:
+Ch_Surfac_12_539,Surface Chemistry,Chemistry,12,0.75,MCQ,A,6.02 × 10²³,3.00 × 10⁸,1.60 × 10⁻¹⁹,9.81,Avogadro's number is approximately:
+Ma_Differ_12_540,Differentiation,Math,12,0.29,MCQ,A,cos x,−cos x,sin x,−sin x,The derivative of sin x is:
+Ch_Chemic_12_541,Chemical Kinetics,Chemistry,12,0.72,MCQ,A,6.02 × 10²³,3.00 × 10⁸,1.60 × 10⁻¹⁹,9.81,Avogadro's number is approximately:
+Ch_Electr_12_542,Electrochemistry,Chemistry,12,0.55,MCQ,A,6.02 × 10²³,3.00 × 10⁸,1.60 × 10⁻¹⁹,9.81,Avogadro's number is approximately:
+Ch_Surfac_12_543,Surface Chemistry,Chemistry,12,0.56,MCQ,A,6.02 × 10²³,3.00 × 10⁸,1.60 × 10⁻¹⁹,9.81,Avogadro's number is approximately:
+Ph_Electr_12_544,Electrostatics,Physics,12,0.5,MCQ,C,Displacement,Velocity,Speed,Acceleration,Which quantity is scalar?
+Ph_Optics_12_545,Optics,Physics,12,0.27,MCQ,C,Displacement,Velocity,Speed,Acceleration,Which quantity is scalar?
+Ch_SolidS_12_546,Solid State,Chemistry,12,0.51,MCQ,A,6.02 × 10²³,3.00 × 10⁸,1.60 × 10⁻¹⁹,9.81,Avogadro's number is approximately:
+Ma_Integr_12_547,Integration,Math,12,0.68,MCQ,A,cos x,−cos x,sin x,−sin x,The derivative of sin x is:
+Ch_Organi_12_548,Organic Chemistry,Chemistry,12,0.71,MCQ,A,6.02 × 10²³,3.00 × 10⁸,1.60 × 10⁻¹⁹,9.81,Avogadro's number is approximately:
+Ch_SolidS_12_549,Solid State,Chemistry,12,0.65,MCQ,A,6.02 × 10²³,3.00 × 10⁸,1.60 × 10⁻¹⁹,9.81,Avogadro's number is approximately:
+Ph_Oscill_11_550,Oscillations,Physics,11,0.65,MCQ,C,Displacement,Velocity,Speed,Acceleration,Which quantity is scalar?
+Ch_Atomic_11_551,Atomic Structure,Chemistry,11,0.3,MCQ,A,6.02 × 10²³,3.00 × 10⁸,1.60 × 10⁻¹⁹,9.81,Avogadro's number is approximately:
+Ma_Calcul_12_552,Calculus,Math,12,0.29,MCQ,A,cos x,−cos x,sin x,−sin x,The derivative of sin x is:
+Ph_Optics_12_553,Optics,Physics,12,0.47,MCQ,C,Displacement,Velocity,Speed,Acceleration,Which quantity is scalar?
+Ma_ConicS_11_554,Conic Sections,Math,11,0.31,MCQ,A,cos x,−cos x,sin x,−sin x,The derivative of sin x is:
+Ch_SolidS_12_555,Solid State,Chemistry,12,0.51,MCQ,A,6.02 × 10²³,3.00 × 10⁸,1.60 × 10⁻¹⁹,9.81,Avogadro's number is approximately:
+Ph_Gravit_11_556,Gravitation,Physics,11,0.46,MCQ,C,Displacement,Velocity,Speed,Acceleration,Which quantity is scalar?
+Ch_Electr_12_557,Electrochemistry,Chemistry,12,0.87,MCQ,A,6.02 × 10²³,3.00 × 10⁸,1.60 × 10⁻¹⁹,9.81,Avogadro's number is approximately:
+Ph_Lawsof_11_558,Laws of Motion,Physics,11,0.56,MCQ,C,Displacement,Velocity,Speed,Acceleration,Which quantity is scalar?
+Ma_Trigon_11_559,Trigonometry,Math,11,0.74,MCQ,A,cos x,−cos x,sin x,−sin x,The derivative of sin x is:
+Ma_Integr_12_560,Integration,Math,12,0.9,MCQ,A,cos x,−cos x,sin x,−sin x,The derivative of sin x is:
+Ch_Electr_12_561,Electrochemistry,Chemistry,12,0.29,MCQ,A,6.02 × 10²³,3.00 × 10⁸,1.60 × 10⁻¹⁹,9.81,Avogadro's number is approximately:
+Ph_Curren_12_562,Current Electricity,Physics,12,0.83,MCQ,C,Displacement,Velocity,Speed,Acceleration,Which quantity is scalar?
+Ch_States_11_563,States of Matter,Chemistry,11,0.68,MCQ,A,6.02 × 10²³,3.00 × 10⁸,1.60 × 10⁻¹⁹,9.81,Avogadro's number is approximately:
+Ch_Biomol_12_564,Biomolecules,Chemistry,12,0.25,MCQ,A,6.02 × 10²³,3.00 × 10⁸,1.60 × 10⁻¹⁹,9.81,Avogadro's number is approximately:
+Ma_Differ_12_565,Differentiation,Math,12,0.8,MCQ,A,cos x,−cos x,sin x,−sin x,The derivative of sin x is:
+Ma_Permut_11_566,Permutations,Math,11,0.45,MCQ,A,cos x,−cos x,sin x,−sin x,The derivative of sin x is:
+Ph_Workan_11_567,Work and Energy,Physics,11,0.75,MCQ,C,Displacement,Velocity,Speed,Acceleration,Which quantity is scalar?
+Ph_Electr_12_568,Electrostatics,Physics,12,0.45,MCQ,C,Displacement,Velocity,Speed,Acceleration,Which quantity is scalar?
+Ma_Vector_12_569,Vectors,Math,12,0.76,MCQ,A,cos x,−cos x,sin x,−sin x,The derivative of sin x is:
+Ma_ConicS_11_570,Conic Sections,Math,11,0.82,MCQ,A,cos x,−cos x,sin x,−sin x,The derivative of sin x is:
+Ph_Modern_12_571,Modern Physics,Physics,12,0.9,MCQ,C,Displacement,Velocity,Speed,Acceleration,Which quantity is scalar?
+Ma_Matric_12_572,Matrices,Math,12,0.49,MCQ,A,cos x,−cos x,sin x,−sin x,The derivative of sin x is:
+Ch_MoleCo_11_573,Mole Concept,Chemistry,11,0.88,MCQ,A,6.02 × 10²³,3.00 × 10⁸,1.60 × 10⁻¹⁹,9.81,Avogadro's number is approximately:
+Ma_Straig_11_574,Straight Lines,Math,11,0.53,MCQ,A,cos x,−cos x,sin x,−sin x,The derivative of sin x is:
+Ma_Integr_12_575,Integration,Math,12,0.81,MCQ,A,cos x,−cos x,sin x,−sin x,The derivative of sin x is:
+Ma_Permut_11_576,Permutations,Math,11,0.88,MCQ,A,cos x,−cos x,sin x,−sin x,The derivative of sin x is:
+Ch_States_11_577,States of Matter,Chemistry,11,0.29,MCQ,A,6.02 × 10²³,3.00 × 10⁸,1.60 × 10⁻¹⁹,9.81,Avogadro's number is approximately:
+Ph_Curren_12_578,Current Electricity,Physics,12,0.31,MCQ,C,Displacement,Velocity,Speed,Acceleration,Which quantity is scalar?
+Ma_Trigon_11_579,Trigonometry,Math,11,0.86,MCQ,A,cos x,−cos x,sin x,−sin x,The derivative of sin x is:
+Ma_Comple_12_580,Complex Numbers,Math,12,0.26,MCQ,A,cos x,−cos x,sin x,−sin x,The derivative of sin x is:
+Ph_Curren_12_581,Current Electricity,Physics,12,0.64,MCQ,C,Displacement,Velocity,Speed,Acceleration,Which quantity is scalar?
+Ma_ConicS_11_582,Conic Sections,Math,11,0.65,MCQ,A,cos x,−cos x,sin x,−sin x,The derivative of sin x is:
+Ma_Relati_11_583,Relations and Functions,Math,11,0.66,MCQ,A,cos x,−cos x,sin x,−sin x,The derivative of sin x is:
+Ma_Comple_12_584,Complex Numbers,Math,12,0.85,MCQ,A,cos x,−cos x,sin x,−sin x,The derivative of sin x is:
+Ph_Mechan_11_585,Mechanics,Physics,11,0.23,MCQ,C,Displacement,Velocity,Speed,Acceleration,Which quantity is scalar?
+Ma_Probab_12_586,Probability,Math,12,0.35,MCQ,A,cos x,−cos x,sin x,−sin x,The derivative of sin x is:
+Ma_Matric_12_587,Matrices,Math,12,0.65,MCQ,A,cos x,−cos x,sin x,−sin x,The derivative of sin x is:
+Ch_Biomol_12_588,Biomolecules,Chemistry,12,0.87,MCQ,A,6.02 × 10²³,3.00 × 10⁸,1.60 × 10⁻¹⁹,9.81,Avogadro's number is approximately:
+Ch_States_11_589,States of Matter,Chemistry,11,0.77,MCQ,A,6.02 × 10²³,3.00 × 10⁸,1.60 × 10⁻¹⁹,9.81,Avogadro's number is approximately:
+Ch_Chemic_12_590,Chemical Kinetics,Chemistry,12,0.25,MCQ,A,6.02 × 10²³,3.00 × 10⁸,1.60 × 10⁻¹⁹,9.81,Avogadro's number is approximately:
+Ph_Lawsof_11_591,Laws of Motion,Physics,11,0.49,MCQ,C,Displacement,Velocity,Speed,Acceleration,Which quantity is scalar?
+Ch_Chemic_11_592,Chemical Bonding,Chemistry,11,0.62,MCQ,A,6.02 × 10²³,3.00 × 10⁸,1.60 × 10⁻¹⁹,9.81,Avogadro's number is approximately:
+Ch_Biomol_12_593,Biomolecules,Chemistry,12,0.89,MCQ,A,6.02 × 10²³,3.00 × 10⁸,1.60 × 10⁻¹⁹,9.81,Avogadro's number is approximately:
+Ch_Electr_12_594,Electrochemistry,Chemistry,12,0.73,MCQ,A,6.02 × 10²³,3.00 × 10⁸,1.60 × 10⁻¹⁹,9.81,Avogadro's number is approximately:
+Ma_Trigon_11_595,Trigonometry,Math,11,0.37,MCQ,A,cos x,−cos x,sin x,−sin x,The derivative of sin x is:
+Ph_Modern_12_596,Modern Physics,Physics,12,0.37,MCQ,C,Displacement,Velocity,Speed,Acceleration,Which quantity is scalar?
+Ph_Kinema_11_597,Kinematics,Physics,11,0.86,MCQ,C,Displacement,Velocity,Speed,Acceleration,Which quantity is scalar?
+Ma_Integr_12_598,Integration,Math,12,0.87,MCQ,A,cos x,−cos x,sin x,−sin x,The derivative of sin x is:
+Ph_Magnet_12_599,Magnetism,Physics,12,0.7,MCQ,C,Displacement,Velocity,Speed,Acceleration,Which quantity is scalar?
+Ph_Lawsof_11_600,Laws of Motion,Physics,11,0.9,MCQ,C,Displacement,Velocity,Speed,Acceleration,Which quantity is scalar?
+Ch_SolidS_12_601,Solid State,Chemistry,12,0.55,MCQ,A,6.02 × 10²³,3.00 × 10⁸,1.60 × 10⁻¹⁹,9.81,Avogadro's number is approximately:
+Ph_Magnet_12_602,Magnetism,Physics,12,0.52,MCQ,C,Displacement,Velocity,Speed,Acceleration,Which quantity is scalar?
+Ph_Gravit_11_603,Gravitation,Physics,11,0.45,MCQ,C,Displacement,Velocity,Speed,Acceleration,Which quantity is scalar?
+Ph_Modern_12_604,Modern Physics,Physics,12,0.62,MCQ,C,Displacement,Velocity,Speed,Acceleration,Which quantity is scalar?
+Ma_Differ_12_605,Differentiation,Math,12,0.58,MCQ,A,cos x,−cos x,sin x,−sin x,The derivative of sin x is:
+Ph_Curren_12_606,Current Electricity,Physics,12,0.82,MCQ,C,Displacement,Velocity,Speed,Acceleration,Which quantity is scalar?
+Ma_Comple_12_607,Complex Numbers,Math,12,0.48,MCQ,A,cos x,−cos x,sin x,−sin x,The derivative of sin x is:
+Ph_Electr_12_608,Electrostatics,Physics,12,0.6,MCQ,C,Displacement,Velocity,Speed,Acceleration,Which quantity is scalar?
+Ph_Magnet_12_609,Magnetism,Physics,12,0.4,MCQ,C,Displacement,Velocity,Speed,Acceleration,Which quantity is scalar?
+Ch_Surfac_12_610,Surface Chemistry,Chemistry,12,0.58,MCQ,A,6.02 × 10²³,3.00 × 10⁸,1.60 × 10⁻¹⁹,9.81,Avogadro's number is approximately:
+Ma_Relati_11_611,Relations and Functions,Math,11,0.88,MCQ,A,cos x,−cos x,sin x,−sin x,The derivative of sin x is:
+Ch_Surfac_12_612,Surface Chemistry,Chemistry,12,0.89,MCQ,A,6.02 × 10²³,3.00 × 10⁸,1.60 × 10⁻¹⁹,9.81,Avogadro's number is approximately:
+Ma_Comple_12_613,Complex Numbers,Math,12,0.3,MCQ,A,cos x,−cos x,sin x,−sin x,The derivative of sin x is:
+Ma_Matric_12_614,Matrices,Math,12,0.23,MCQ,A,cos x,−cos x,sin x,−sin x,The derivative of sin x is:
+Ph_Oscill_11_615,Oscillations,Physics,11,0.43,MCQ,C,Displacement,Velocity,Speed,Acceleration,Which quantity is scalar?
+Ch_Electr_12_616,Electrochemistry,Chemistry,12,0.62,MCQ,A,6.02 × 10²³,3.00 × 10⁸,1.60 × 10⁻¹⁹,9.81,Avogadro's number is approximately:
+Ma_Trigon_11_617,Trigonometry,Math,11,0.85,MCQ,A,cos x,−cos x,sin x,−sin x,The derivative of sin x is:
+Ch_Equili_11_618,Equilibrium,Chemistry,11,0.89,MCQ,A,6.02 × 10²³,3.00 × 10⁸,1.60 × 10⁻¹⁹,9.81,Avogadro's number is approximately:
+Ma_Matric_12_619,Matrices,Math,12,0.44,MCQ,A,cos x,−cos x,sin x,−sin x,The derivative of sin x is:
+Ma_Probab_12_620,Probability,Math,12,0.59,MCQ,A,cos x,−cos x,sin x,−sin x,The derivative of sin x is:
+Ch_Chemic_11_621,Chemical Bonding,Chemistry,11,0.43,MCQ,A,6.02 × 10²³,3.00 × 10⁸,1.60 × 10⁻¹⁹,9.81,Avogadro's number is approximately:
+Ph_Magnet_12_622,Magnetism,Physics,12,0.42,MCQ,C,Displacement,Velocity,Speed,Acceleration,Which quantity is scalar?
+Ma_ConicS_11_623,Conic Sections,Math,11,0.53,MCQ,A,cos x,−cos x,sin x,−sin x,The derivative of sin x is:
+Ma_Probab_11_624,Probability,Math,11,0.24,MCQ,A,cos x,−cos x,sin x,−sin x,The derivative of sin x is:
+Ch_RedoxR_11_625,Redox Reactions,Chemistry,11,0.64,MCQ,A,6.02 × 10²³,3.00 × 10⁸,1.60 × 10⁻¹⁹,9.81,Avogadro's number is approximately:
+Ma_Integr_12_626,Integration,Math,12,0.78,MCQ,A,cos x,−cos x,sin x,−sin x,The derivative of sin x is:
+Ph_Gravit_11_627,Gravitation,Physics,11,0.86,MCQ,C,Displacement,Velocity,Speed,Acceleration,Which quantity is scalar?
+Ph_Mechan_11_628,Mechanics,Physics,11,0.51,MCQ,C,Displacement,Velocity,Speed,Acceleration,Which quantity is scalar?
+Ch_Equili_11_629,Equilibrium,Chemistry,11,0.68,MCQ,A,6.02 × 10²³,3.00 × 10⁸,1.60 × 10⁻¹⁹,9.81,Avogadro's number is approximately:
+Ch_Surfac_12_630,Surface Chemistry,Chemistry,12,0.79,MCQ,A,6.02 × 10²³,3.00 × 10⁸,1.60 × 10⁻¹⁹,9.81,Avogadro's number is approximately:
+Ma_Probab_11_631,Probability,Math,11,0.3,MCQ,A,cos x,−cos x,sin x,−sin x,The derivative of sin x is:
+Ph_Thermo_12_632,Thermodynamics,Physics,12,0.53,MCQ,C,Displacement,Velocity,Speed,Acceleration,Which quantity is scalar?
+Ch_Electr_12_633,Electrochemistry,Chemistry,12,0.52,MCQ,A,6.02 × 10²³,3.00 × 10⁸,1.60 × 10⁻¹⁹,9.81,Avogadro's number is approximately:
+Ma_Matric_12_634,Matrices,Math,12,0.45,MCQ,A,cos x,−cos x,sin x,−sin x,The derivative of sin x is:
+Ma_Matric_12_635,Matrices,Math,12,0.54,MCQ,A,cos x,−cos x,sin x,−sin x,The derivative of sin x is:
+Ph_Magnet_12_636,Magnetism,Physics,12,0.41,MCQ,C,Displacement,Velocity,Speed,Acceleration,Which quantity is scalar?
+Ch_Biomol_12_637,Biomolecules,Chemistry,12,0.35,MCQ,A,6.02 × 10²³,3.00 × 10⁸,1.60 × 10⁻¹⁹,9.81,Avogadro's number is approximately:
+Ma_Differ_12_638,Differentiation,Math,12,0.54,MCQ,A,cos x,−cos x,sin x,−sin x,The derivative of sin x is:
+Ma_Differ_12_639,Differentiation,Math,12,0.29,MCQ,A,cos x,−cos x,sin x,−sin x,The derivative of sin x is:
+Ma_Vector_12_640,Vectors,Math,12,0.77,MCQ,A,cos x,−cos x,sin x,−sin x,The derivative of sin x is:
+Ph_Electr_12_641,Electrostatics,Physics,12,0.4,MCQ,C,Displacement,Velocity,Speed,Acceleration,Which quantity is scalar?
+Ma_Trigon_11_642,Trigonometry,Math,11,0.85,MCQ,A,cos x,−cos x,sin x,−sin x,The derivative of sin x is:
+Ma_Probab_12_643,Probability,Math,12,0.54,MCQ,A,cos x,−cos x,sin x,−sin x,The derivative of sin x is:
+Ph_Magnet_12_644,Magnetism,Physics,12,0.69,MCQ,C,Displacement,Velocity,Speed,Acceleration,Which quantity is scalar?
+Ph_Gravit_11_645,Gravitation,Physics,11,0.72,MCQ,C,Displacement,Velocity,Speed,Acceleration,Which quantity is scalar?
+Ph_Mechan_11_646,Mechanics,Physics,11,0.67,MCQ,C,Displacement,Velocity,Speed,Acceleration,Which quantity is scalar?
+Ma_Probab_11_647,Probability,Math,11,0.36,MCQ,A,cos x,−cos x,sin x,−sin x,The derivative of sin x is:
+Ph_Optics_12_648,Optics,Physics,12,0.7,MCQ,C,Displacement,Velocity,Speed,Acceleration,Which quantity is scalar?
+Ph_Mechan_11_649,Mechanics,Physics,11,0.88,MCQ,C,Displacement,Velocity,Speed,Acceleration,Which quantity is scalar?
